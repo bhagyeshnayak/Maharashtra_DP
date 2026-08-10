@@ -1,0 +1,25 @@
+{
+  "district_id": "sindhudurg",
+  "district_name": "Sindhudurg",
+  "total_talukas": 4,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sindhudurg",
+  "talukas": [
+    {
+      "taluka_name": "KANKAVLI",
+      "taluka_id": "kankavli"
+    },
+    {
+      "taluka_name": "MALVAN",
+      "taluka_id": "malvan"
+    },
+    {
+      "taluka_name": "SAWANTWADI",
+      "taluka_id": "sawantwadi"
+    },
+    {
+      "taluka_name": "VENGURLA",
+      "taluka_id": "vengurla"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sindhudurg"
+}

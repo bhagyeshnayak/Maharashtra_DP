@@ -1,0 +1,57 @@
+{
+  "district_id": "parbhani",
+  "district_name": "Parbhani",
+  "total_talukas": 12,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani",
+  "talukas": [
+    {
+      "taluka_name": "AMBAJOGAI",
+      "taluka_id": "ambajogai"
+    },
+    {
+      "taluka_name": "BASMATH",
+      "taluka_id": "basmath"
+    },
+    {
+      "taluka_name": "GANGAKHED",
+      "taluka_id": "gangakhed"
+    },
+    {
+      "taluka_name": "JINTUR",
+      "taluka_id": "jintur"
+    },
+    {
+      "taluka_name": "KALAMNURI",
+      "taluka_id": "kalamnuri"
+    },
+    {
+      "taluka_name": "MANWAT",
+      "taluka_id": "manwat"
+    },
+    {
+      "taluka_name": "PARABHANI",
+      "taluka_id": "parabhani"
+    },
+    {
+      "taluka_name": "PATHARI",
+      "taluka_id": "pathari"
+    },
+    {
+      "taluka_name": "PURNACHAMAY",
+      "taluka_id": "purnachamay"
+    },
+    {
+      "taluka_name": "SAILU",
+      "taluka_id": "sailu"
+    },
+    {
+      "taluka_name": "SELU",
+      "taluka_id": "selu"
+    },
+    {
+      "taluka_name": "SONPETH",
+      "taluka_id": "sonpeth"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani"
+}

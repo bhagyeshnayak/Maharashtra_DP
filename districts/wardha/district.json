@@ -1,0 +1,13 @@
+{
+  "district_id": "wardha",
+  "district_name": "Wardha",
+  "total_talukas": 1,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=wardha",
+  "talukas": [
+    {
+      "taluka_name": "WARDHA",
+      "taluka_id": "wardha"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=wardha"
+}

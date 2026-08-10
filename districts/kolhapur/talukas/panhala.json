@@ -1,0 +1,15 @@
+{
+  "district_id": "kolhapur",
+  "district_name": "Kolhapur",
+  "taluka_id": "panhala",
+  "taluka_name": "PANHALA",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=panhala",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=panhala&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=panhala&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=panhala&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/kolhapur/pdfs/panhala",
+  "downloaded_pdfs": []
+}

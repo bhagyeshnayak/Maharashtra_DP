@@ -1,0 +1,15 @@
+{
+  "district_id": "parbhani",
+  "district_name": "Parbhani",
+  "taluka_id": "gangakhed",
+  "taluka_name": "GANGAKHED",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=gangakhed",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=gangakhed&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=gangakhed&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=gangakhed&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/parbhani/pdfs/gangakhed",
+  "downloaded_pdfs": []
+}

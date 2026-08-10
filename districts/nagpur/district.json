@@ -1,0 +1,97 @@
+{
+  "district_id": "nagpur",
+  "district_name": "Nagpur",
+  "total_talukas": 22,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur",
+  "talukas": [
+    {
+      "taluka_name": "BUTIBORI",
+      "taluka_id": "butibori"
+    },
+    {
+      "taluka_name": "HINGNA",
+      "taluka_id": "hingna"
+    },
+    {
+      "taluka_name": "KAMPTEE",
+      "taluka_id": "kamptee"
+    },
+    {
+      "taluka_name": "KATOL",
+      "taluka_id": "katol"
+    },
+    {
+      "taluka_name": "KORADI",
+      "taluka_id": "koradi"
+    },
+    {
+      "taluka_name": "KONDHALI",
+      "taluka_id": "kondhali"
+    },
+    {
+      "taluka_name": "KUMBHARI",
+      "taluka_id": "kumbhari"
+    },
+    {
+      "taluka_name": "NAGPUR (RURAL)",
+      "taluka_id": "nagpur_(rural)"
+    },
+    {
+      "taluka_name": "NAGPUR",
+      "taluka_id": "nagpur"
+    },
+    {
+      "taluka_name": "SAONER",
+      "taluka_id": "saoner"
+    },
+    {
+      "taluka_name": "UMRED",
+      "taluka_id": "umred"
+    },
+    {
+      "taluka_name": "UMARKHED",
+      "taluka_id": "umarkhed"
+    },
+    {
+      "taluka_name": "Kalameshwar",
+      "taluka_id": "kalameshwar"
+    },
+    {
+      "taluka_name": "Kamadhi",
+      "taluka_id": "kamadhi"
+    },
+    {
+      "taluka_name": "Ramtek",
+      "taluka_id": "ramtek"
+    },
+    {
+      "taluka_name": "Movad",
+      "taluka_id": "movad"
+    },
+    {
+      "taluka_name": "Khapa",
+      "taluka_id": "khapa"
+    },
+    {
+      "taluka_name": "Mahapa",
+      "taluka_id": "mahapa"
+    },
+    {
+      "taluka_name": "Narkhed",
+      "taluka_id": "narkhed"
+    },
+    {
+      "taluka_name": "Savaner",
+      "taluka_id": "savaner"
+    },
+    {
+      "taluka_name": "Nagar (Municipal Corporation)",
+      "taluka_id": "nagar_(municipal_corporation)"
+    },
+    {
+      "taluka_name": "Bhivarur Non NP",
+      "taluka_id": "bhivarur_non_np"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur"
+}

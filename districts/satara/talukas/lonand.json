@@ -1,0 +1,15 @@
+{
+  "district_id": "satara",
+  "district_name": "Satara",
+  "taluka_id": "lonand",
+  "taluka_name": "Lonand",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=lonand",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=lonand&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=lonand&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=lonand&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/satara/pdfs/lonand",
+  "downloaded_pdfs": []
+}

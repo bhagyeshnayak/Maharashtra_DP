@@ -1,0 +1,15 @@
+{
+  "district_id": "washim",
+  "district_name": "Washim",
+  "taluka_id": "risod",
+  "taluka_name": "Risod",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=washim&tal=risod",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=washim&tal=risod&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=washim&tal=risod&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=washim&tal=risod&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/washim/pdfs/risod",
+  "downloaded_pdfs": []
+}

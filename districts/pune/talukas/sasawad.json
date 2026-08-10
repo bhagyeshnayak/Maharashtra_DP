@@ -1,0 +1,15 @@
+{
+  "district_id": "pune",
+  "district_name": "Pune",
+  "taluka_id": "sasawad",
+  "taluka_name": "SASAWAD",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=sasawad",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=sasawad&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=sasawad&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=sasawad&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/pune/pdfs/sasawad",
+  "downloaded_pdfs": []
+}

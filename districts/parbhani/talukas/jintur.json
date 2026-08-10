@@ -1,0 +1,15 @@
+{
+  "district_id": "parbhani",
+  "district_name": "Parbhani",
+  "taluka_id": "jintur",
+  "taluka_name": "JINTUR",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=jintur",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=jintur&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=jintur&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=jintur&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/parbhani/pdfs/jintur",
+  "downloaded_pdfs": []
+}

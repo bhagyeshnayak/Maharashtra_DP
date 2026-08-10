@@ -1,0 +1,45 @@
+{
+  "district_id": "kolhapur",
+  "district_name": "Kolhapur",
+  "total_talukas": 9,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur",
+  "talukas": [
+    {
+      "taluka_name": "GADHINGLAJ",
+      "taluka_id": "gadhinglaj"
+    },
+    {
+      "taluka_name": "ICHALKARANJI",
+      "taluka_id": "ichalkaranji"
+    },
+    {
+      "taluka_name": "JAYSINGHPUR",
+      "taluka_id": "jaysinghpur"
+    },
+    {
+      "taluka_name": "Kolhapur",
+      "taluka_id": "kolhapur"
+    },
+    {
+      "taluka_name": "KAGAL",
+      "taluka_id": "kagal"
+    },
+    {
+      "taluka_name": "KURUNDWAD",
+      "taluka_id": "kurundwad"
+    },
+    {
+      "taluka_name": "MURGUD",
+      "taluka_id": "murgud"
+    },
+    {
+      "taluka_name": "PANHALA",
+      "taluka_id": "panhala"
+    },
+    {
+      "taluka_name": "VADGAON",
+      "taluka_id": "vadgaon"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur"
+}

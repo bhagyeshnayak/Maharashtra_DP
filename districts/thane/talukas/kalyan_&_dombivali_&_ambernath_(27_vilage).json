@@ -1,0 +1,18 @@
+{
+  "district_id": "thane",
+  "district_name": "Thane",
+  "taluka_id": "kalyan_&_dombivali_&_ambernath_(27_vilage)",
+  "taluka_name": "KALYAN & DOMBIVALI & AMBERNATH (27 VILAGE)",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=thane&tal=kalyan_&_dombivali_&_ambernath_(27_vilage)&languages=",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=thane&tal=kalyan_&_dombivali_&_ambernath_(27_vilage)&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=thane&tal=kalyan_&_dombivali_&_ambernath_(27_vilage)&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=thane&tal=kalyan_&_dombivali_&_ambernath_(27_vilage)&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/thane/pdfs/kalyan_&_dombivali_&_ambernath_(27_vilage)",
+  "downloaded_pdfs": [],
+  "scraped_with_playwright": true,
+  "last_scraped_at": "2026-08-10 17:46:15",
+  "pdfs_found": 0
+}

@@ -1,0 +1,15 @@
+{
+  "district_id": "kolhapur",
+  "district_name": "Kolhapur",
+  "taluka_id": "kurundwad",
+  "taluka_name": "KURUNDWAD",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=kurundwad",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=kurundwad&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=kurundwad&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=kurundwad&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/kolhapur/pdfs/kurundwad",
+  "downloaded_pdfs": []
+}

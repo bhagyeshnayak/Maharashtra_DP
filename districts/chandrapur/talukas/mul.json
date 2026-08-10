@@ -1,0 +1,15 @@
+{
+  "district_id": "chandrapur",
+  "district_name": "Chandrapur",
+  "taluka_id": "mul",
+  "taluka_name": "Mul",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=mul",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=mul&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=mul&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=mul&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/chandrapur/pdfs/mul",
+  "downloaded_pdfs": []
+}

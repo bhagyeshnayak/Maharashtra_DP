@@ -1,0 +1,53 @@
+{
+  "district_id": "satara",
+  "district_name": "Satara",
+  "total_talukas": 11,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara",
+  "talukas": [
+    {
+      "taluka_name": "KARAD",
+      "taluka_id": "karad"
+    },
+    {
+      "taluka_name": "KOREGAON",
+      "taluka_id": "koregaon"
+    },
+    {
+      "taluka_name": "MAHABLESHWAR",
+      "taluka_id": "mahableshwar"
+    },
+    {
+      "taluka_name": "MALKAPUR",
+      "taluka_id": "malkapur"
+    },
+    {
+      "taluka_name": "MHASWAD",
+      "taluka_id": "mhaswad"
+    },
+    {
+      "taluka_name": "PANCHGANI",
+      "taluka_id": "panchgani"
+    },
+    {
+      "taluka_name": "PHALTAN",
+      "taluka_id": "phaltan"
+    },
+    {
+      "taluka_name": "RAHIMATPUR",
+      "taluka_id": "rahimatpur"
+    },
+    {
+      "taluka_name": "SATARA",
+      "taluka_id": "satara"
+    },
+    {
+      "taluka_name": "Lonand",
+      "taluka_id": "lonand"
+    },
+    {
+      "taluka_name": "WAI",
+      "taluka_id": "wai"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara"
+}

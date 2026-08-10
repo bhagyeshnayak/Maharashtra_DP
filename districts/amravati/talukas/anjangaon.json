@@ -1,0 +1,15 @@
+{
+  "district_id": "amravati",
+  "district_name": "Amravati",
+  "taluka_id": "anjangaon",
+  "taluka_name": "ANJANGAON",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=anjangaon",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=anjangaon&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=anjangaon&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=anjangaon&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/amravati/pdfs/anjangaon",
+  "downloaded_pdfs": []
+}

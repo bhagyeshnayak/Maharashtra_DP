@@ -1,0 +1,15 @@
+{
+  "district_id": "chandrapur",
+  "district_name": "Chandrapur",
+  "taluka_id": "chandrapur_(municipality)",
+  "taluka_name": "Chandrapur (municipality)",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=chandrapur_(municipality)",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=chandrapur_(municipality)&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=chandrapur_(municipality)&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=chandrapur_(municipality)&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/chandrapur/pdfs/chandrapur_(municipality)",
+  "downloaded_pdfs": []
+}

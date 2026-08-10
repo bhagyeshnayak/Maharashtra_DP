@@ -1,0 +1,37 @@
+{
+  "district_id": "akola",
+  "district_name": "Akola",
+  "total_talukas": 7,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola",
+  "talukas": [
+    {
+      "taluka_name": "AKOT",
+      "taluka_id": "akot"
+    },
+    {
+      "taluka_name": "AKOLA",
+      "taluka_id": "akola"
+    },
+    {
+      "taluka_name": "BALAPUR",
+      "taluka_id": "balapur"
+    },
+    {
+      "taluka_name": "MURTIJAPUR",
+      "taluka_id": "murtijapur"
+    },
+    {
+      "taluka_name": "PIWATRI",
+      "taluka_id": "piwatri"
+    },
+    {
+      "taluka_name": "TELHARA",
+      "taluka_id": "telhara"
+    },
+    {
+      "taluka_name": "KARANJA",
+      "taluka_id": "karanja"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola"
+}

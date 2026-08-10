@@ -1,0 +1,15 @@
+{
+  "district_id": "akola",
+  "district_name": "Akola",
+  "taluka_id": "karanja",
+  "taluka_name": "KARANJA",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=karanja",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=karanja&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=karanja&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=karanja&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/akola/pdfs/karanja",
+  "downloaded_pdfs": []
+}

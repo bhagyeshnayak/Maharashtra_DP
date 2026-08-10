@@ -1,0 +1,15 @@
+{
+  "district_id": "jalgaon",
+  "district_name": "Jalgaon",
+  "taluka_id": "chalisgaon",
+  "taluka_name": "CHALISGAON",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=chalisgaon",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=chalisgaon&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=chalisgaon&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=chalisgaon&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/jalgaon/pdfs/chalisgaon",
+  "downloaded_pdfs": []
+}

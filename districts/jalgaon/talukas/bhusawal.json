@@ -1,0 +1,15 @@
+{
+  "district_id": "jalgaon",
+  "district_name": "Jalgaon",
+  "taluka_id": "bhusawal",
+  "taluka_name": "BHUSAWAL",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=bhusawal",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=bhusawal&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=bhusawal&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=bhusawal&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/jalgaon/pdfs/bhusawal",
+  "downloaded_pdfs": []
+}

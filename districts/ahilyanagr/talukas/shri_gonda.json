@@ -1,0 +1,15 @@
+{
+  "district_id": "ahilyanagr",
+  "district_name": "Ahilyanagar",
+  "taluka_id": "shri_gonda",
+  "taluka_name": "SHRI GONDA",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=shri_gonda",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=shri_gonda&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=shri_gonda&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=shri_gonda&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/ahilyanagr/pdfs/shri_gonda",
+  "downloaded_pdfs": []
+}

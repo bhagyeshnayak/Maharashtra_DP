@@ -1,0 +1,15 @@
+{
+  "district_id": "jalgaon",
+  "district_name": "Jalgaon",
+  "taluka_id": "bhadgaon",
+  "taluka_name": "Bhadgaon",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=bhadgaon",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=bhadgaon&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=bhadgaon&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=bhadgaon&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/jalgaon/pdfs/bhadgaon",
+  "downloaded_pdfs": []
+}

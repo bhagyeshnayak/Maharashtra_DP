@@ -1,0 +1,15 @@
+{
+  "district_id": "pune",
+  "district_name": "Pune",
+  "taluka_id": "pcmc",
+  "taluka_name": "PCMC",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=pcmc",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=pcmc&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=pcmc&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=pcmc&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/pune/pdfs/pcmc",
+  "downloaded_pdfs": []
+}

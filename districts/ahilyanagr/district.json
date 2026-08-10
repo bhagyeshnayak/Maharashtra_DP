@@ -1,0 +1,65 @@
+{
+  "district_id": "ahilyanagr",
+  "district_name": "Ahilyanagar",
+  "total_talukas": 14,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr",
+  "talukas": [
+    {
+      "taluka_name": "Ahilyanagar PLAN A&B",
+      "taluka_id": "ahilyanagar_plan_a&b"
+    },
+    {
+      "taluka_name": "Ahilyanagar (12VILAGE)",
+      "taluka_id": "ahilyanagar_(12vilage)"
+    },
+    {
+      "taluka_name": "BELAPUR",
+      "taluka_id": "belapur"
+    },
+    {
+      "taluka_name": "DEVLALI-PRAVARA",
+      "taluka_id": "devlali-pravara"
+    },
+    {
+      "taluka_name": "KOPARGAON",
+      "taluka_id": "kopargaon"
+    },
+    {
+      "taluka_name": "NEVASA",
+      "taluka_id": "nevasa"
+    },
+    {
+      "taluka_name": "PATHERDI",
+      "taluka_id": "patherdi"
+    },
+    {
+      "taluka_name": "RAHTA PIMPLAS",
+      "taluka_id": "rahta_pimplas"
+    },
+    {
+      "taluka_name": "RAHURI",
+      "taluka_id": "rahuri"
+    },
+    {
+      "taluka_name": "SANGAMNER",
+      "taluka_id": "sangamner"
+    },
+    {
+      "taluka_name": "SHEVGAON",
+      "taluka_id": "shevgaon"
+    },
+    {
+      "taluka_name": "SHIRDI",
+      "taluka_id": "shirdi"
+    },
+    {
+      "taluka_name": "SHRI GONDA",
+      "taluka_id": "shri_gonda"
+    },
+    {
+      "taluka_name": "SHRIRAMPUR",
+      "taluka_id": "shrirampur"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr"
+}

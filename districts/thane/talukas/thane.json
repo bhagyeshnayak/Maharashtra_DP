@@ -1,0 +1,18 @@
+{
+  "district_id": "thane",
+  "district_name": "Thane",
+  "taluka_id": "thane",
+  "taluka_name": "THANE",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=thane&tal=thane&languages=",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=thane&tal=thane&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=thane&tal=thane&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=thane&tal=thane&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/thane/pdfs/thane",
+  "downloaded_pdfs": [],
+  "scraped_with_playwright": true,
+  "last_scraped_at": "2026-08-10 17:50:15",
+  "pdfs_found": 0
+}

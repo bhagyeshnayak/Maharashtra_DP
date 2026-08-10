@@ -1,0 +1,15 @@
+{
+  "district_id": "ahilyanagr",
+  "district_name": "Ahilyanagar",
+  "taluka_id": "belapur",
+  "taluka_name": "BELAPUR",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=belapur",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=belapur&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=belapur&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=belapur&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/ahilyanagr/pdfs/belapur",
+  "downloaded_pdfs": []
+}

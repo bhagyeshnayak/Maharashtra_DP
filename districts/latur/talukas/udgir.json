@@ -1,0 +1,15 @@
+{
+  "district_id": "latur",
+  "district_name": "Latur",
+  "taluka_id": "udgir",
+  "taluka_name": "UDGIR",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=latur&tal=udgir",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=latur&tal=udgir&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=latur&tal=udgir&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=latur&tal=udgir&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/latur/pdfs/udgir",
+  "downloaded_pdfs": []
+}

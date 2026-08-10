@@ -1,0 +1,15 @@
+{
+  "district_id": "kolhapur",
+  "district_name": "Kolhapur",
+  "taluka_id": "jaysinghpur",
+  "taluka_name": "JAYSINGHPUR",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=jaysinghpur",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=jaysinghpur&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=jaysinghpur&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=jaysinghpur&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/kolhapur/pdfs/jaysinghpur",
+  "downloaded_pdfs": []
+}

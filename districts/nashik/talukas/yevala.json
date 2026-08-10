@@ -1,0 +1,15 @@
+{
+  "district_id": "nashik",
+  "district_name": "Nashik",
+  "taluka_id": "yevala",
+  "taluka_name": "YEVALA",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=yevala",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=yevala&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=yevala&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=yevala&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/nashik/pdfs/yevala",
+  "downloaded_pdfs": []
+}

@@ -1,0 +1,57 @@
+{
+  "district_id": "solapur",
+  "district_name": "Solapur",
+  "total_talukas": 12,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur",
+  "talukas": [
+    {
+      "taluka_name": "AKKALKOT",
+      "taluka_id": "akkalkot"
+    },
+    {
+      "taluka_name": "AKALUJ",
+      "taluka_id": "akaluj"
+    },
+    {
+      "taluka_name": "BARSHI",
+      "taluka_id": "barshi"
+    },
+    {
+      "taluka_name": "DUDHANI",
+      "taluka_id": "dudhani"
+    },
+    {
+      "taluka_name": "KARMALA",
+      "taluka_id": "karmala"
+    },
+    {
+      "taluka_name": "KURUDWADI",
+      "taluka_id": "kurudwadi"
+    },
+    {
+      "taluka_name": "MAIDARGI",
+      "taluka_id": "maidargi"
+    },
+    {
+      "taluka_name": "MAGALVEDHA",
+      "taluka_id": "magalvedha"
+    },
+    {
+      "taluka_name": "PANDHARPUR",
+      "taluka_id": "pandharpur"
+    },
+    {
+      "taluka_name": "SANGOLA",
+      "taluka_id": "sangola"
+    },
+    {
+      "taluka_name": "SOLAPUR _JULE",
+      "taluka_id": "solapur__jule"
+    },
+    {
+      "taluka_name": "SOLAPUR",
+      "taluka_id": "solapur"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur"
+}

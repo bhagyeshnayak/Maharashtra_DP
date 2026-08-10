@@ -1,0 +1,15 @@
+{
+  "district_id": "nagpur",
+  "district_name": "Nagpur",
+  "taluka_id": "kamadhi",
+  "taluka_name": "Kamadhi",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=kamadhi",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=kamadhi&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=kamadhi&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=kamadhi&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/nagpur/pdfs/kamadhi",
+  "downloaded_pdfs": []
+}

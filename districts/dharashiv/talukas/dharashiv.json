@@ -1,0 +1,15 @@
+{
+  "district_id": "dharashiv",
+  "district_name": "Dharashiv",
+  "taluka_id": "dharashiv",
+  "taluka_name": "Dharashiv",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=dharashiv",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=dharashiv&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=dharashiv&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=dharashiv&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/dharashiv/pdfs/dharashiv",
+  "downloaded_pdfs": []
+}

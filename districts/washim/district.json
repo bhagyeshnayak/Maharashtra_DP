@@ -1,0 +1,25 @@
+{
+  "district_id": "washim",
+  "district_name": "Washim",
+  "total_talukas": 4,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=washim",
+  "talukas": [
+    {
+      "taluka_name": "Karanja",
+      "taluka_id": "karanja"
+    },
+    {
+      "taluka_name": "Mangrulpir",
+      "taluka_id": "mangrulpir"
+    },
+    {
+      "taluka_name": "Risod",
+      "taluka_id": "risod"
+    },
+    {
+      "taluka_name": "Washim",
+      "taluka_id": "washim"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=washim"
+}

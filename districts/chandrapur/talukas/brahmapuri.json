@@ -1,0 +1,15 @@
+{
+  "district_id": "chandrapur",
+  "district_name": "Chandrapur",
+  "taluka_id": "brahmapuri",
+  "taluka_name": "Brahmapuri",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=brahmapuri",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=brahmapuri&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=brahmapuri&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=brahmapuri&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/chandrapur/pdfs/brahmapuri",
+  "downloaded_pdfs": []
+}

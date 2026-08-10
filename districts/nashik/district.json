@@ -1,0 +1,61 @@
+{
+  "district_id": "nashik",
+  "district_name": "Nashik",
+  "total_talukas": 13,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik",
+  "talukas": [
+    {
+      "taluka_name": "BHAGUR",
+      "taluka_id": "bhagur"
+    },
+    {
+      "taluka_name": "IGATPURI",
+      "taluka_id": "igatpuri"
+    },
+    {
+      "taluka_name": "MALEGAON",
+      "taluka_id": "malegaon"
+    },
+    {
+      "taluka_name": "MANMAD",
+      "taluka_id": "manmad"
+    },
+    {
+      "taluka_name": "NANDGAON",
+      "taluka_id": "nandgaon"
+    },
+    {
+      "taluka_name": "NASHIK",
+      "taluka_id": "nashik"
+    },
+    {
+      "taluka_name": "SAPTSHRUNGI GADH",
+      "taluka_id": "saptshrungi_gadh"
+    },
+    {
+      "taluka_name": "SATANA",
+      "taluka_id": "satana"
+    },
+    {
+      "taluka_name": "SINNER",
+      "taluka_id": "sinner"
+    },
+    {
+      "taluka_name": "TRIMBAK",
+      "taluka_id": "trimbak"
+    },
+    {
+      "taluka_name": "DEOLALI",
+      "taluka_id": "deolali"
+    },
+    {
+      "taluka_name": "YEVALA",
+      "taluka_id": "yevala"
+    },
+    {
+      "taluka_name": "SATPUR",
+      "taluka_id": "satpur"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik"
+}

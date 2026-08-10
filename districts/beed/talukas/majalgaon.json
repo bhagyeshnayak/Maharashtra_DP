@@ -1,0 +1,15 @@
+{
+  "district_id": "beed",
+  "district_name": "Beed",
+  "taluka_id": "majalgaon",
+  "taluka_name": "MAJALGAON",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=beed&tal=majalgaon",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=beed&tal=majalgaon&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=beed&tal=majalgaon&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=beed&tal=majalgaon&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/beed/pdfs/majalgaon",
+  "downloaded_pdfs": []
+}

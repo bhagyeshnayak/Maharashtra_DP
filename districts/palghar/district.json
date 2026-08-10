@@ -1,0 +1,29 @@
+{
+  "district_id": "palghar",
+  "district_name": "Palghar",
+  "total_talukas": 5,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=palghar",
+  "talukas": [
+    {
+      "taluka_name": "DAHANU",
+      "taluka_id": "dahanu"
+    },
+    {
+      "taluka_name": "JAVAHAR",
+      "taluka_id": "javahar"
+    },
+    {
+      "taluka_name": "PALGHAR",
+      "taluka_id": "palghar"
+    },
+    {
+      "taluka_name": "VASAI Virar",
+      "taluka_id": "vasai_virar"
+    },
+    {
+      "taluka_name": "UMbarpada",
+      "taluka_id": "umbarpada"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=palghar"
+}

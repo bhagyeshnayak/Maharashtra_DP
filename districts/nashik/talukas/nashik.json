@@ -1,0 +1,15 @@
+{
+  "district_id": "nashik",
+  "district_name": "Nashik",
+  "taluka_id": "nashik",
+  "taluka_name": "NASHIK",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=nashik",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=nashik&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=nashik&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=nashik&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/nashik/pdfs/nashik",
+  "downloaded_pdfs": []
+}

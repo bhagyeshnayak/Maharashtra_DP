@@ -1,0 +1,15 @@
+{
+  "district_id": "gadchiroli",
+  "district_name": "Gadchiroli",
+  "taluka_id": "sironcha",
+  "taluka_name": "SIRONCHA",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gadchiroli&tal=sironcha",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gadchiroli&tal=sironcha&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gadchiroli&tal=sironcha&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gadchiroli&tal=sironcha&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/gadchiroli/pdfs/sironcha",
+  "downloaded_pdfs": []
+}

@@ -1,0 +1,15 @@
+{
+  "district_id": "amravati",
+  "district_name": "Amravati",
+  "taluka_id": "chandur_bazar",
+  "taluka_name": "CHANDUR BAZAR",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=chandur_bazar",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=chandur_bazar&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=chandur_bazar&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=chandur_bazar&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/amravati/pdfs/chandur_bazar",
+  "downloaded_pdfs": []
+}

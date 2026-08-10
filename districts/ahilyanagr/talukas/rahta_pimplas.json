@@ -1,0 +1,15 @@
+{
+  "district_id": "ahilyanagr",
+  "district_name": "Ahilyanagar",
+  "taluka_id": "rahta_pimplas",
+  "taluka_name": "RAHTA PIMPLAS",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=rahta_pimplas",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=rahta_pimplas&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=rahta_pimplas&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=rahta_pimplas&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/ahilyanagr/pdfs/rahta_pimplas",
+  "downloaded_pdfs": []
+}

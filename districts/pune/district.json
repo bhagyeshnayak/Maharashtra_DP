@@ -1,0 +1,69 @@
+{
+  "district_id": "pune",
+  "district_name": "Pune",
+  "total_talukas": 15,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune",
+  "talukas": [
+    {
+      "taluka_name": "BHOR",
+      "taluka_id": "bhor"
+    },
+    {
+      "taluka_name": "ALANDI DEVACHI",
+      "taluka_id": "alandi_devachi"
+    },
+    {
+      "taluka_name": "JUNNER",
+      "taluka_id": "junner"
+    },
+    {
+      "taluka_name": "LONAWALA",
+      "taluka_id": "lonawala"
+    },
+    {
+      "taluka_name": "LONI KALBHOR",
+      "taluka_id": "loni_kalbhor"
+    },
+    {
+      "taluka_name": "PCMC",
+      "taluka_id": "pcmc"
+    },
+    {
+      "taluka_name": "PCNTDA",
+      "taluka_id": "pcntda"
+    },
+    {
+      "taluka_name": "PUNE",
+      "taluka_id": "pune"
+    },
+    {
+      "taluka_name": "SHIRUR",
+      "taluka_id": "shirur"
+    },
+    {
+      "taluka_name": "TALEGAON",
+      "taluka_id": "talegaon"
+    },
+    {
+      "taluka_name": "BARAMATI",
+      "taluka_id": "baramati"
+    },
+    {
+      "taluka_name": "DAUND",
+      "taluka_id": "daund"
+    },
+    {
+      "taluka_name": "INDAPUR",
+      "taluka_id": "indapur"
+    },
+    {
+      "taluka_name": "SASAWAD",
+      "taluka_id": "sasawad"
+    },
+    {
+      "taluka_name": "JEJURI",
+      "taluka_id": "jejuri"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune"
+}

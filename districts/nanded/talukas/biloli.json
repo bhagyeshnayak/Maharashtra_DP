@@ -1,0 +1,15 @@
+{
+  "district_id": "nanded",
+  "district_name": "Nanded",
+  "taluka_id": "biloli",
+  "taluka_name": "BILOLI",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=biloli",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=biloli&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=biloli&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=biloli&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/nanded/pdfs/biloli",
+  "downloaded_pdfs": []
+}

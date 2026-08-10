@@ -1,0 +1,15 @@
+{
+  "district_id": "dhule",
+  "district_name": "Dhule",
+  "taluka_id": "dhondaicha_varved",
+  "taluka_name": "Dhondaicha Varved",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dhule&tal=dhondaicha_varved",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dhule&tal=dhondaicha_varved&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dhule&tal=dhondaicha_varved&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dhule&tal=dhondaicha_varved&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/dhule/pdfs/dhondaicha_varved",
+  "downloaded_pdfs": []
+}

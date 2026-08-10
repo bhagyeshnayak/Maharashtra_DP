@@ -1,0 +1,15 @@
+{
+  "district_id": "jalgaon",
+  "district_name": "Jalgaon",
+  "taluka_id": "parola",
+  "taluka_name": "PAROLA",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=parola",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=parola&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=parola&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=parola&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/jalgaon/pdfs/parola",
+  "downloaded_pdfs": []
+}

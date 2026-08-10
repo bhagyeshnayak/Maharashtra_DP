@@ -1,0 +1,15 @@
+{
+  "district_id": "dharashiv",
+  "district_name": "Dharashiv",
+  "taluka_id": "tuljapur",
+  "taluka_name": "TULJAPUR",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=tuljapur",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=tuljapur&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=tuljapur&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=tuljapur&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/dharashiv/pdfs/tuljapur",
+  "downloaded_pdfs": []
+}

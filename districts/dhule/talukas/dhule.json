@@ -1,0 +1,15 @@
+{
+  "district_id": "dhule",
+  "district_name": "Dhule",
+  "taluka_id": "dhule",
+  "taluka_name": "Dhule",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dhule&tal=dhule",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dhule&tal=dhule&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dhule&tal=dhule&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dhule&tal=dhule&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/dhule/pdfs/dhule",
+  "downloaded_pdfs": []
+}

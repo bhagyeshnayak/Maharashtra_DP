@@ -1,0 +1,15 @@
+{
+  "district_id": "akola",
+  "district_name": "Akola",
+  "taluka_id": "akot",
+  "taluka_name": "AKOT",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=akot",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=akot&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=akot&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=akot&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/akola/pdfs/akot",
+  "downloaded_pdfs": []
+}

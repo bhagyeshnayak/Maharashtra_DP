@@ -1,0 +1,1843 @@
+[
+  {
+    "district_id": "palghar",
+    "district_name": "Palghar",
+    "taluka_count": 5,
+    "district_file": "districts/palghar/district.json",
+    "talukas_dir": "districts/palghar/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "dahanu",
+        "taluka_name": "DAHANU",
+        "json_file": "districts/palghar/talukas/dahanu.json"
+      },
+      {
+        "taluka_id": "javahar",
+        "taluka_name": "JAVAHAR",
+        "json_file": "districts/palghar/talukas/javahar.json"
+      },
+      {
+        "taluka_id": "palghar",
+        "taluka_name": "PALGHAR",
+        "json_file": "districts/palghar/talukas/palghar.json"
+      },
+      {
+        "taluka_id": "vasai_virar",
+        "taluka_name": "VASAI Virar",
+        "json_file": "districts/palghar/talukas/vasai_virar.json"
+      },
+      {
+        "taluka_id": "umbarpada",
+        "taluka_name": "UMbarpada",
+        "json_file": "districts/palghar/talukas/umbarpada.json"
+      }
+    ]
+  },
+  {
+    "district_id": "thane",
+    "district_name": "Thane",
+    "taluka_count": 11,
+    "district_file": "districts/thane/district.json",
+    "talukas_dir": "districts/thane/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "ambernath",
+        "taluka_name": "AMBERNATH",
+        "json_file": "districts/thane/talukas/ambernath.json"
+      },
+      {
+        "taluka_id": "bhivandi-_nijampur",
+        "taluka_name": "BHIVANDI- NIJAMPUR",
+        "json_file": "districts/thane/talukas/bhivandi-_nijampur.json"
+      },
+      {
+        "taluka_id": "badlapur_(m_cl)",
+        "taluka_name": "Badlapur (M Cl)",
+        "json_file": "districts/thane/talukas/badlapur_(m_cl).json"
+      },
+      {
+        "taluka_id": "kalyan_&_dombivali_&_ambernath_(27_vilage)",
+        "taluka_name": "KALYAN & DOMBIVALI & AMBERNATH (27 VILAGE)",
+        "json_file": "districts/thane/talukas/kalyan_&_dombivali_&_ambernath_(27_vilage).json"
+      },
+      {
+        "taluka_id": "kalyan_&_dombivali_(sec.3,6,7)_r",
+        "taluka_name": "KALYAN & DOMBIVALI (SEC.3,6,7)  R",
+        "json_file": "districts/thane/talukas/kalyan_&_dombivali_(sec.3,6,7)_r.json"
+      },
+      {
+        "taluka_id": "mira_bhaindar_cor",
+        "taluka_name": "MIRA BHAINDAR COR",
+        "json_file": "districts/thane/talukas/mira_bhaindar_cor.json"
+      },
+      {
+        "taluka_id": "bhivandi_(57_village)",
+        "taluka_name": "BHIVANDI (57 Village)",
+        "json_file": "districts/thane/talukas/bhivandi_(57_village).json"
+      },
+      {
+        "taluka_id": "thane",
+        "taluka_name": "THANE",
+        "json_file": "districts/thane/talukas/thane.json"
+      },
+      {
+        "taluka_id": "mumbai",
+        "taluka_name": "MUMBAI",
+        "json_file": "districts/thane/talukas/mumbai.json"
+      },
+      {
+        "taluka_id": "navi_mumbai",
+        "taluka_name": "NAVI MUMBAI",
+        "json_file": "districts/thane/talukas/navi_mumbai.json"
+      },
+      {
+        "taluka_id": "ulhasnagar",
+        "taluka_name": "ULHASNAGAR",
+        "json_file": "districts/thane/talukas/ulhasnagar.json"
+      }
+    ]
+  },
+  {
+    "district_id": "raigad",
+    "district_name": "Raigad",
+    "taluka_count": 11,
+    "district_file": "districts/raigad/district.json",
+    "talukas_dir": "districts/raigad/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "alibaug",
+        "taluka_name": "ALIBAUG",
+        "json_file": "districts/raigad/talukas/alibaug.json"
+      },
+      {
+        "taluka_id": "karjat",
+        "taluka_name": "KARJAT",
+        "json_file": "districts/raigad/talukas/karjat.json"
+      },
+      {
+        "taluka_id": "khopoli",
+        "taluka_name": "KHOPOLI",
+        "json_file": "districts/raigad/talukas/khopoli.json"
+      },
+      {
+        "taluka_id": "mahad",
+        "taluka_name": "MAHAD",
+        "json_file": "districts/raigad/talukas/mahad.json"
+      },
+      {
+        "taluka_id": "matheran",
+        "taluka_name": "MATHERAN",
+        "json_file": "districts/raigad/talukas/matheran.json"
+      },
+      {
+        "taluka_id": "murud_janjira",
+        "taluka_name": "MURUD JANJIRA",
+        "json_file": "districts/raigad/talukas/murud_janjira.json"
+      },
+      {
+        "taluka_id": "panvel",
+        "taluka_name": "PANVEL",
+        "json_file": "districts/raigad/talukas/panvel.json"
+      },
+      {
+        "taluka_id": "pen",
+        "taluka_name": "PEN",
+        "json_file": "districts/raigad/talukas/pen.json"
+      },
+      {
+        "taluka_id": "roha",
+        "taluka_name": "ROHA",
+        "json_file": "districts/raigad/talukas/roha.json"
+      },
+      {
+        "taluka_id": "shreevardhan",
+        "taluka_name": "SHREEVARDHAN",
+        "json_file": "districts/raigad/talukas/shreevardhan.json"
+      },
+      {
+        "taluka_id": "uran",
+        "taluka_name": "URAN",
+        "json_file": "districts/raigad/talukas/uran.json"
+      }
+    ]
+  },
+  {
+    "district_id": "ratnagiri",
+    "district_name": "Ratnagiri",
+    "taluka_count": 5,
+    "district_file": "districts/ratnagiri/district.json",
+    "talukas_dir": "districts/ratnagiri/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "chiplun",
+        "taluka_name": "CHIPLUN",
+        "json_file": "districts/ratnagiri/talukas/chiplun.json"
+      },
+      {
+        "taluka_id": "dapoli",
+        "taluka_name": "DAPOLI",
+        "json_file": "districts/ratnagiri/talukas/dapoli.json"
+      },
+      {
+        "taluka_id": "khed",
+        "taluka_name": "KHED",
+        "json_file": "districts/ratnagiri/talukas/khed.json"
+      },
+      {
+        "taluka_id": "rajapur",
+        "taluka_name": "RAJAPUR",
+        "json_file": "districts/ratnagiri/talukas/rajapur.json"
+      },
+      {
+        "taluka_id": "ratnagiri",
+        "taluka_name": "RATNAGIRI",
+        "json_file": "districts/ratnagiri/talukas/ratnagiri.json"
+      }
+    ]
+  },
+  {
+    "district_id": "sindhudurg",
+    "district_name": "Sindhudurg",
+    "taluka_count": 4,
+    "district_file": "districts/sindhudurg/district.json",
+    "talukas_dir": "districts/sindhudurg/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "kankavli",
+        "taluka_name": "KANKAVLI",
+        "json_file": "districts/sindhudurg/talukas/kankavli.json"
+      },
+      {
+        "taluka_id": "malvan",
+        "taluka_name": "MALVAN",
+        "json_file": "districts/sindhudurg/talukas/malvan.json"
+      },
+      {
+        "taluka_id": "sawantwadi",
+        "taluka_name": "SAWANTWADI",
+        "json_file": "districts/sindhudurg/talukas/sawantwadi.json"
+      },
+      {
+        "taluka_id": "vengurla",
+        "taluka_name": "VENGURLA",
+        "json_file": "districts/sindhudurg/talukas/vengurla.json"
+      }
+    ]
+  },
+  {
+    "district_id": "kolhapur",
+    "district_name": "Kolhapur",
+    "taluka_count": 9,
+    "district_file": "districts/kolhapur/district.json",
+    "talukas_dir": "districts/kolhapur/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "gadhinglaj",
+        "taluka_name": "GADHINGLAJ",
+        "json_file": "districts/kolhapur/talukas/gadhinglaj.json"
+      },
+      {
+        "taluka_id": "ichalkaranji",
+        "taluka_name": "ICHALKARANJI",
+        "json_file": "districts/kolhapur/talukas/ichalkaranji.json"
+      },
+      {
+        "taluka_id": "jaysinghpur",
+        "taluka_name": "JAYSINGHPUR",
+        "json_file": "districts/kolhapur/talukas/jaysinghpur.json"
+      },
+      {
+        "taluka_id": "kolhapur",
+        "taluka_name": "Kolhapur",
+        "json_file": "districts/kolhapur/talukas/kolhapur.json"
+      },
+      {
+        "taluka_id": "kagal",
+        "taluka_name": "KAGAL",
+        "json_file": "districts/kolhapur/talukas/kagal.json"
+      },
+      {
+        "taluka_id": "kurundwad",
+        "taluka_name": "KURUNDWAD",
+        "json_file": "districts/kolhapur/talukas/kurundwad.json"
+      },
+      {
+        "taluka_id": "murgud",
+        "taluka_name": "MURGUD",
+        "json_file": "districts/kolhapur/talukas/murgud.json"
+      },
+      {
+        "taluka_id": "panhala",
+        "taluka_name": "PANHALA",
+        "json_file": "districts/kolhapur/talukas/panhala.json"
+      },
+      {
+        "taluka_id": "vadgaon",
+        "taluka_name": "VADGAON",
+        "json_file": "districts/kolhapur/talukas/vadgaon.json"
+      }
+    ]
+  },
+  {
+    "district_id": "sangli",
+    "district_name": "Sangli",
+    "taluka_count": 5,
+    "district_file": "districts/sangli/district.json",
+    "talukas_dir": "districts/sangli/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "ashta",
+        "taluka_name": "ASHTA",
+        "json_file": "districts/sangli/talukas/ashta.json"
+      },
+      {
+        "taluka_id": "islampur",
+        "taluka_name": "ISLAMPUR",
+        "json_file": "districts/sangli/talukas/islampur.json"
+      },
+      {
+        "taluka_id": "sangli/miraj/kupwada/sangalwadi",
+        "taluka_name": "SANGLI/MIRAJ/KUPWADA/SANGALWADI",
+        "json_file": "districts/sangli/talukas/sangli_miraj_kupwada_sangalwadi.json"
+      },
+      {
+        "taluka_id": "tasgaon",
+        "taluka_name": "TASGAON",
+        "json_file": "districts/sangli/talukas/tasgaon.json"
+      },
+      {
+        "taluka_id": "vita",
+        "taluka_name": "VITA",
+        "json_file": "districts/sangli/talukas/vita.json"
+      }
+    ]
+  },
+  {
+    "district_id": "satara",
+    "district_name": "Satara",
+    "taluka_count": 11,
+    "district_file": "districts/satara/district.json",
+    "talukas_dir": "districts/satara/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "karad",
+        "taluka_name": "KARAD",
+        "json_file": "districts/satara/talukas/karad.json"
+      },
+      {
+        "taluka_id": "koregaon",
+        "taluka_name": "KOREGAON",
+        "json_file": "districts/satara/talukas/koregaon.json"
+      },
+      {
+        "taluka_id": "mahableshwar",
+        "taluka_name": "MAHABLESHWAR",
+        "json_file": "districts/satara/talukas/mahableshwar.json"
+      },
+      {
+        "taluka_id": "malkapur",
+        "taluka_name": "MALKAPUR",
+        "json_file": "districts/satara/talukas/malkapur.json"
+      },
+      {
+        "taluka_id": "mhaswad",
+        "taluka_name": "MHASWAD",
+        "json_file": "districts/satara/talukas/mhaswad.json"
+      },
+      {
+        "taluka_id": "panchgani",
+        "taluka_name": "PANCHGANI",
+        "json_file": "districts/satara/talukas/panchgani.json"
+      },
+      {
+        "taluka_id": "phaltan",
+        "taluka_name": "PHALTAN",
+        "json_file": "districts/satara/talukas/phaltan.json"
+      },
+      {
+        "taluka_id": "rahimatpur",
+        "taluka_name": "RAHIMATPUR",
+        "json_file": "districts/satara/talukas/rahimatpur.json"
+      },
+      {
+        "taluka_id": "satara",
+        "taluka_name": "SATARA",
+        "json_file": "districts/satara/talukas/satara.json"
+      },
+      {
+        "taluka_id": "lonand",
+        "taluka_name": "Lonand",
+        "json_file": "districts/satara/talukas/lonand.json"
+      },
+      {
+        "taluka_id": "wai",
+        "taluka_name": "WAI",
+        "json_file": "districts/satara/talukas/wai.json"
+      }
+    ]
+  },
+  {
+    "district_id": "solapur",
+    "district_name": "Solapur",
+    "taluka_count": 12,
+    "district_file": "districts/solapur/district.json",
+    "talukas_dir": "districts/solapur/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "akkalkot",
+        "taluka_name": "AKKALKOT",
+        "json_file": "districts/solapur/talukas/akkalkot.json"
+      },
+      {
+        "taluka_id": "akaluj",
+        "taluka_name": "AKALUJ",
+        "json_file": "districts/solapur/talukas/akaluj.json"
+      },
+      {
+        "taluka_id": "barshi",
+        "taluka_name": "BARSHI",
+        "json_file": "districts/solapur/talukas/barshi.json"
+      },
+      {
+        "taluka_id": "dudhani",
+        "taluka_name": "DUDHANI",
+        "json_file": "districts/solapur/talukas/dudhani.json"
+      },
+      {
+        "taluka_id": "karmala",
+        "taluka_name": "KARMALA",
+        "json_file": "districts/solapur/talukas/karmala.json"
+      },
+      {
+        "taluka_id": "kurudwadi",
+        "taluka_name": "KURUDWADI",
+        "json_file": "districts/solapur/talukas/kurudwadi.json"
+      },
+      {
+        "taluka_id": "maidargi",
+        "taluka_name": "MAIDARGI",
+        "json_file": "districts/solapur/talukas/maidargi.json"
+      },
+      {
+        "taluka_id": "magalvedha",
+        "taluka_name": "MAGALVEDHA",
+        "json_file": "districts/solapur/talukas/magalvedha.json"
+      },
+      {
+        "taluka_id": "pandharpur",
+        "taluka_name": "PANDHARPUR",
+        "json_file": "districts/solapur/talukas/pandharpur.json"
+      },
+      {
+        "taluka_id": "sangola",
+        "taluka_name": "SANGOLA",
+        "json_file": "districts/solapur/talukas/sangola.json"
+      },
+      {
+        "taluka_id": "solapur__jule",
+        "taluka_name": "SOLAPUR _JULE",
+        "json_file": "districts/solapur/talukas/solapur__jule.json"
+      },
+      {
+        "taluka_id": "solapur",
+        "taluka_name": "SOLAPUR",
+        "json_file": "districts/solapur/talukas/solapur.json"
+      }
+    ]
+  },
+  {
+    "district_id": "pune",
+    "district_name": "Pune",
+    "taluka_count": 15,
+    "district_file": "districts/pune/district.json",
+    "talukas_dir": "districts/pune/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "bhor",
+        "taluka_name": "BHOR",
+        "json_file": "districts/pune/talukas/bhor.json"
+      },
+      {
+        "taluka_id": "alandi_devachi",
+        "taluka_name": "ALANDI DEVACHI",
+        "json_file": "districts/pune/talukas/alandi_devachi.json"
+      },
+      {
+        "taluka_id": "junner",
+        "taluka_name": "JUNNER",
+        "json_file": "districts/pune/talukas/junner.json"
+      },
+      {
+        "taluka_id": "lonawala",
+        "taluka_name": "LONAWALA",
+        "json_file": "districts/pune/talukas/lonawala.json"
+      },
+      {
+        "taluka_id": "loni_kalbhor",
+        "taluka_name": "LONI KALBHOR",
+        "json_file": "districts/pune/talukas/loni_kalbhor.json"
+      },
+      {
+        "taluka_id": "pcmc",
+        "taluka_name": "PCMC",
+        "json_file": "districts/pune/talukas/pcmc.json"
+      },
+      {
+        "taluka_id": "pcntda",
+        "taluka_name": "PCNTDA",
+        "json_file": "districts/pune/talukas/pcntda.json"
+      },
+      {
+        "taluka_id": "pune",
+        "taluka_name": "PUNE",
+        "json_file": "districts/pune/talukas/pune.json"
+      },
+      {
+        "taluka_id": "shirur",
+        "taluka_name": "SHIRUR",
+        "json_file": "districts/pune/talukas/shirur.json"
+      },
+      {
+        "taluka_id": "talegaon",
+        "taluka_name": "TALEGAON",
+        "json_file": "districts/pune/talukas/talegaon.json"
+      },
+      {
+        "taluka_id": "baramati",
+        "taluka_name": "BARAMATI",
+        "json_file": "districts/pune/talukas/baramati.json"
+      },
+      {
+        "taluka_id": "daund",
+        "taluka_name": "DAUND",
+        "json_file": "districts/pune/talukas/daund.json"
+      },
+      {
+        "taluka_id": "indapur",
+        "taluka_name": "INDAPUR",
+        "json_file": "districts/pune/talukas/indapur.json"
+      },
+      {
+        "taluka_id": "sasawad",
+        "taluka_name": "SASAWAD",
+        "json_file": "districts/pune/talukas/sasawad.json"
+      },
+      {
+        "taluka_id": "jejuri",
+        "taluka_name": "JEJURI",
+        "json_file": "districts/pune/talukas/jejuri.json"
+      }
+    ]
+  },
+  {
+    "district_id": "ahilyanagr",
+    "district_name": "Ahilyanagar",
+    "taluka_count": 14,
+    "district_file": "districts/ahilyanagr/district.json",
+    "talukas_dir": "districts/ahilyanagr/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "ahilyanagar_plan_a&b",
+        "taluka_name": "Ahilyanagar PLAN A&B",
+        "json_file": "districts/ahilyanagr/talukas/ahilyanagar_plan_a&b.json"
+      },
+      {
+        "taluka_id": "ahilyanagar_(12vilage)",
+        "taluka_name": "Ahilyanagar (12VILAGE)",
+        "json_file": "districts/ahilyanagr/talukas/ahilyanagar_(12vilage).json"
+      },
+      {
+        "taluka_id": "belapur",
+        "taluka_name": "BELAPUR",
+        "json_file": "districts/ahilyanagr/talukas/belapur.json"
+      },
+      {
+        "taluka_id": "devlali-pravara",
+        "taluka_name": "DEVLALI-PRAVARA",
+        "json_file": "districts/ahilyanagr/talukas/devlali-pravara.json"
+      },
+      {
+        "taluka_id": "kopargaon",
+        "taluka_name": "KOPARGAON",
+        "json_file": "districts/ahilyanagr/talukas/kopargaon.json"
+      },
+      {
+        "taluka_id": "nevasa",
+        "taluka_name": "NEVASA",
+        "json_file": "districts/ahilyanagr/talukas/nevasa.json"
+      },
+      {
+        "taluka_id": "patherdi",
+        "taluka_name": "PATHERDI",
+        "json_file": "districts/ahilyanagr/talukas/patherdi.json"
+      },
+      {
+        "taluka_id": "rahta_pimplas",
+        "taluka_name": "RAHTA PIMPLAS",
+        "json_file": "districts/ahilyanagr/talukas/rahta_pimplas.json"
+      },
+      {
+        "taluka_id": "rahuri",
+        "taluka_name": "RAHURI",
+        "json_file": "districts/ahilyanagr/talukas/rahuri.json"
+      },
+      {
+        "taluka_id": "sangamner",
+        "taluka_name": "SANGAMNER",
+        "json_file": "districts/ahilyanagr/talukas/sangamner.json"
+      },
+      {
+        "taluka_id": "shevgaon",
+        "taluka_name": "SHEVGAON",
+        "json_file": "districts/ahilyanagr/talukas/shevgaon.json"
+      },
+      {
+        "taluka_id": "shirdi",
+        "taluka_name": "SHIRDI",
+        "json_file": "districts/ahilyanagr/talukas/shirdi.json"
+      },
+      {
+        "taluka_id": "shri_gonda",
+        "taluka_name": "SHRI GONDA",
+        "json_file": "districts/ahilyanagr/talukas/shri_gonda.json"
+      },
+      {
+        "taluka_id": "shrirampur",
+        "taluka_name": "SHRIRAMPUR",
+        "json_file": "districts/ahilyanagr/talukas/shrirampur.json"
+      }
+    ]
+  },
+  {
+    "district_id": "nashik",
+    "district_name": "Nashik",
+    "taluka_count": 13,
+    "district_file": "districts/nashik/district.json",
+    "talukas_dir": "districts/nashik/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "bhagur",
+        "taluka_name": "BHAGUR",
+        "json_file": "districts/nashik/talukas/bhagur.json"
+      },
+      {
+        "taluka_id": "igatpuri",
+        "taluka_name": "IGATPURI",
+        "json_file": "districts/nashik/talukas/igatpuri.json"
+      },
+      {
+        "taluka_id": "malegaon",
+        "taluka_name": "MALEGAON",
+        "json_file": "districts/nashik/talukas/malegaon.json"
+      },
+      {
+        "taluka_id": "manmad",
+        "taluka_name": "MANMAD",
+        "json_file": "districts/nashik/talukas/manmad.json"
+      },
+      {
+        "taluka_id": "nandgaon",
+        "taluka_name": "NANDGAON",
+        "json_file": "districts/nashik/talukas/nandgaon.json"
+      },
+      {
+        "taluka_id": "nashik",
+        "taluka_name": "NASHIK",
+        "json_file": "districts/nashik/talukas/nashik.json"
+      },
+      {
+        "taluka_id": "saptshrungi_gadh",
+        "taluka_name": "SAPTSHRUNGI GADH",
+        "json_file": "districts/nashik/talukas/saptshrungi_gadh.json"
+      },
+      {
+        "taluka_id": "satana",
+        "taluka_name": "SATANA",
+        "json_file": "districts/nashik/talukas/satana.json"
+      },
+      {
+        "taluka_id": "sinner",
+        "taluka_name": "SINNER",
+        "json_file": "districts/nashik/talukas/sinner.json"
+      },
+      {
+        "taluka_id": "trimbak",
+        "taluka_name": "TRIMBAK",
+        "json_file": "districts/nashik/talukas/trimbak.json"
+      },
+      {
+        "taluka_id": "deolali",
+        "taluka_name": "DEOLALI",
+        "json_file": "districts/nashik/talukas/deolali.json"
+      },
+      {
+        "taluka_id": "yevala",
+        "taluka_name": "YEVALA",
+        "json_file": "districts/nashik/talukas/yevala.json"
+      },
+      {
+        "taluka_id": "satpur",
+        "taluka_name": "SATPUR",
+        "json_file": "districts/nashik/talukas/satpur.json"
+      }
+    ]
+  },
+  {
+    "district_id": "jalgaon",
+    "district_name": "Jalgaon",
+    "taluka_count": 15,
+    "district_file": "districts/jalgaon/district.json",
+    "talukas_dir": "districts/jalgaon/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "bhusawal",
+        "taluka_name": "BHUSAWAL",
+        "json_file": "districts/jalgaon/talukas/bhusawal.json"
+      },
+      {
+        "taluka_id": "chalisgaon",
+        "taluka_name": "CHALISGAON",
+        "json_file": "districts/jalgaon/talukas/chalisgaon.json"
+      },
+      {
+        "taluka_id": "bhadgaon",
+        "taluka_name": "Bhadgaon",
+        "json_file": "districts/jalgaon/talukas/bhadgaon.json"
+      },
+      {
+        "taluka_id": "chopda",
+        "taluka_name": "CHOPDA",
+        "json_file": "districts/jalgaon/talukas/chopda.json"
+      },
+      {
+        "taluka_id": "dharangaon",
+        "taluka_name": "DHARANGAON",
+        "json_file": "districts/jalgaon/talukas/dharangaon.json"
+      },
+      {
+        "taluka_id": "erandol",
+        "taluka_name": "ERANDOL",
+        "json_file": "districts/jalgaon/talukas/erandol.json"
+      },
+      {
+        "taluka_id": "faizpur",
+        "taluka_name": "FAIZPUR",
+        "json_file": "districts/jalgaon/talukas/faizpur.json"
+      },
+      {
+        "taluka_id": "jalgaon",
+        "taluka_name": "JALGAON",
+        "json_file": "districts/jalgaon/talukas/jalgaon.json"
+      },
+      {
+        "taluka_id": "jamner",
+        "taluka_name": "JAMNER",
+        "json_file": "districts/jalgaon/talukas/jamner.json"
+      },
+      {
+        "taluka_id": "pachora",
+        "taluka_name": "PACHORA",
+        "json_file": "districts/jalgaon/talukas/pachora.json"
+      },
+      {
+        "taluka_id": "parola",
+        "taluka_name": "PAROLA",
+        "json_file": "districts/jalgaon/talukas/parola.json"
+      },
+      {
+        "taluka_id": "raver",
+        "taluka_name": "RAVER",
+        "json_file": "districts/jalgaon/talukas/raver.json"
+      },
+      {
+        "taluka_id": "savda",
+        "taluka_name": "SAVDA",
+        "json_file": "districts/jalgaon/talukas/savda.json"
+      },
+      {
+        "taluka_id": "yaval",
+        "taluka_name": "YAVAL",
+        "json_file": "districts/jalgaon/talukas/yaval.json"
+      },
+      {
+        "taluka_id": "amalner",
+        "taluka_name": "AMALNER",
+        "json_file": "districts/jalgaon/talukas/amalner.json"
+      }
+    ]
+  },
+  {
+    "district_id": "dhule",
+    "district_name": "Dhule",
+    "taluka_count": 3,
+    "district_file": "districts/dhule/district.json",
+    "talukas_dir": "districts/dhule/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "dhule",
+        "taluka_name": "Dhule",
+        "json_file": "districts/dhule/talukas/dhule.json"
+      },
+      {
+        "taluka_id": "dhondaicha_varved",
+        "taluka_name": "Dhondaicha Varved",
+        "json_file": "districts/dhule/talukas/dhondaicha_varved.json"
+      },
+      {
+        "taluka_id": "shirpur_varved",
+        "taluka_name": "Shirpur Varved",
+        "json_file": "districts/dhule/talukas/shirpur_varved.json"
+      }
+    ]
+  },
+  {
+    "district_id": "nandurbar",
+    "district_name": "Nandurbar",
+    "taluka_count": 4,
+    "district_file": "districts/nandurbar/district.json",
+    "talukas_dir": "districts/nandurbar/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "nandurbar",
+        "taluka_name": "NANDURBAR",
+        "json_file": "districts/nandurbar/talukas/nandurbar.json"
+      },
+      {
+        "taluka_id": "navapur",
+        "taluka_name": "NAVAPUR",
+        "json_file": "districts/nandurbar/talukas/navapur.json"
+      },
+      {
+        "taluka_id": "shahada",
+        "taluka_name": "SHAHADA",
+        "json_file": "districts/nandurbar/talukas/shahada.json"
+      },
+      {
+        "taluka_id": "taloda",
+        "taluka_name": "TALODA",
+        "json_file": "districts/nandurbar/talukas/taloda.json"
+      }
+    ]
+  },
+  {
+    "district_id": "dharashiv",
+    "district_name": "Dharashiv",
+    "taluka_count": 6,
+    "district_file": "districts/dharashiv/district.json",
+    "talukas_dir": "districts/dharashiv/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "bhum",
+        "taluka_name": "BHUM",
+        "json_file": "districts/dharashiv/talukas/bhum.json"
+      },
+      {
+        "taluka_id": "kalanmb",
+        "taluka_name": "KALANMB",
+        "json_file": "districts/dharashiv/talukas/kalanmb.json"
+      },
+      {
+        "taluka_id": "murum",
+        "taluka_name": "MURUM",
+        "json_file": "districts/dharashiv/talukas/murum.json"
+      },
+      {
+        "taluka_id": "dharashiv",
+        "taluka_name": "Dharashiv",
+        "json_file": "districts/dharashiv/talukas/dharashiv.json"
+      },
+      {
+        "taluka_id": "tuljapur",
+        "taluka_name": "TULJAPUR",
+        "json_file": "districts/dharashiv/talukas/tuljapur.json"
+      },
+      {
+        "taluka_id": "umarga",
+        "taluka_name": "UMARGA",
+        "json_file": "districts/dharashiv/talukas/umarga.json"
+      }
+    ]
+  },
+  {
+    "district_id": "chatrapati_sambhajinagar",
+    "district_name": "Chhatrapati Sambhajinagar",
+    "taluka_count": 8,
+    "district_file": "districts/chatrapati_sambhajinagar/district.json",
+    "talukas_dir": "districts/chatrapati_sambhajinagar/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "_chhatrapati_sambhajinagar",
+        "taluka_name": " Chhatrapati Sambhajinagar",
+        "json_file": "districts/chatrapati_sambhajinagar/talukas/_chhatrapati_sambhajinagar.json"
+      },
+      {
+        "taluka_id": "gangapur",
+        "taluka_name": "GANGAPUR",
+        "json_file": "districts/chatrapati_sambhajinagar/talukas/gangapur.json"
+      },
+      {
+        "taluka_id": "kanad",
+        "taluka_name": "KANAD",
+        "json_file": "districts/chatrapati_sambhajinagar/talukas/kanad.json"
+      },
+      {
+        "taluka_id": "paithan",
+        "taluka_name": "PAITHAN",
+        "json_file": "districts/chatrapati_sambhajinagar/talukas/paithan.json"
+      },
+      {
+        "taluka_id": "phulambri",
+        "taluka_name": "PHULAMBRI",
+        "json_file": "districts/chatrapati_sambhajinagar/talukas/phulambri.json"
+      },
+      {
+        "taluka_id": "shamgaon",
+        "taluka_name": "SHAMGAON",
+        "json_file": "districts/chatrapati_sambhajinagar/talukas/shamgaon.json"
+      },
+      {
+        "taluka_id": "vajirabad",
+        "taluka_name": "VAJIRABAD",
+        "json_file": "districts/chatrapati_sambhajinagar/talukas/vajirabad.json"
+      },
+      {
+        "taluka_id": "chakan",
+        "taluka_name": "CHAKAN",
+        "json_file": "districts/chatrapati_sambhajinagar/talukas/chakan.json"
+      }
+    ]
+  },
+  {
+    "district_id": "jalna",
+    "district_name": "Jalna",
+    "taluka_count": 8,
+    "district_file": "districts/jalna/district.json",
+    "talukas_dir": "districts/jalna/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "ambad",
+        "taluka_name": "AMBAD",
+        "json_file": "districts/jalna/talukas/ambad.json"
+      },
+      {
+        "taluka_id": "badnapur",
+        "taluka_name": "BADNAPUR",
+        "json_file": "districts/jalna/talukas/badnapur.json"
+      },
+      {
+        "taluka_id": "bhokardan",
+        "taluka_name": "BHOKARDAN",
+        "json_file": "districts/jalna/talukas/bhokardan.json"
+      },
+      {
+        "taluka_id": "ghansawangi",
+        "taluka_name": "GHANSAWANGI",
+        "json_file": "districts/jalna/talukas/ghansawangi.json"
+      },
+      {
+        "taluka_id": "jafrabad",
+        "taluka_name": "JAFRABAD",
+        "json_file": "districts/jalna/talukas/jafrabad.json"
+      },
+      {
+        "taluka_id": "jalna",
+        "taluka_name": "JALNA",
+        "json_file": "districts/jalna/talukas/jalna.json"
+      },
+      {
+        "taluka_id": "manad",
+        "taluka_name": "MANAD",
+        "json_file": "districts/jalna/talukas/manad.json"
+      },
+      {
+        "taluka_id": "partur",
+        "taluka_name": "PARTUR",
+        "json_file": "districts/jalna/talukas/partur.json"
+      }
+    ]
+  },
+  {
+    "district_id": "beed",
+    "district_name": "Beed",
+    "taluka_count": 7,
+    "district_file": "districts/beed/district.json",
+    "talukas_dir": "districts/beed/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "ashti",
+        "taluka_name": "ASHTI",
+        "json_file": "districts/beed/talukas/ashti.json"
+      },
+      {
+        "taluka_id": "beed",
+        "taluka_name": "BEED",
+        "json_file": "districts/beed/talukas/beed.json"
+      },
+      {
+        "taluka_id": "dharur",
+        "taluka_name": "DHARUR",
+        "json_file": "districts/beed/talukas/dharur.json"
+      },
+      {
+        "taluka_id": "gavri",
+        "taluka_name": "GAVRI",
+        "json_file": "districts/beed/talukas/gavri.json"
+      },
+      {
+        "taluka_id": "kaj",
+        "taluka_name": "KAJ",
+        "json_file": "districts/beed/talukas/kaj.json"
+      },
+      {
+        "taluka_id": "majalgaon",
+        "taluka_name": "MAJALGAON",
+        "json_file": "districts/beed/talukas/majalgaon.json"
+      },
+      {
+        "taluka_id": "wadwani",
+        "taluka_name": "WADWANI",
+        "json_file": "districts/beed/talukas/wadwani.json"
+      }
+    ]
+  },
+  {
+    "district_id": "latur",
+    "district_name": "Latur",
+    "taluka_count": 5,
+    "district_file": "districts/latur/district.json",
+    "talukas_dir": "districts/latur/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "ausa",
+        "taluka_name": "AUSA",
+        "json_file": "districts/latur/talukas/ausa.json"
+      },
+      {
+        "taluka_id": "latur",
+        "taluka_name": "LATUR",
+        "json_file": "districts/latur/talukas/latur.json"
+      },
+      {
+        "taluka_id": "latur_plan-a",
+        "taluka_name": "LATUR PLAN-A",
+        "json_file": "districts/latur/talukas/latur_plan-a.json"
+      },
+      {
+        "taluka_id": "latur_plan-b",
+        "taluka_name": "LATUR PLAN-B",
+        "json_file": "districts/latur/talukas/latur_plan-b.json"
+      },
+      {
+        "taluka_id": "udgir",
+        "taluka_name": "UDGIR",
+        "json_file": "districts/latur/talukas/udgir.json"
+      }
+    ]
+  },
+  {
+    "district_id": "hingoli",
+    "district_name": "Hingoli",
+    "taluka_count": 3,
+    "district_file": "districts/hingoli/district.json",
+    "talukas_dir": "districts/hingoli/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "hingoli",
+        "taluka_name": "Hingoli",
+        "json_file": "districts/hingoli/talukas/hingoli.json"
+      },
+      {
+        "taluka_id": "vasmatnagar",
+        "taluka_name": "VASMATNAGAR",
+        "json_file": "districts/hingoli/talukas/vasmatnagar.json"
+      },
+      {
+        "taluka_id": "kalamnuri",
+        "taluka_name": "KALAMNURI",
+        "json_file": "districts/hingoli/talukas/kalamnuri.json"
+      }
+    ]
+  },
+  {
+    "district_id": "parbhani",
+    "district_name": "Parbhani",
+    "taluka_count": 12,
+    "district_file": "districts/parbhani/district.json",
+    "talukas_dir": "districts/parbhani/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "ambajogai",
+        "taluka_name": "AMBAJOGAI",
+        "json_file": "districts/parbhani/talukas/ambajogai.json"
+      },
+      {
+        "taluka_id": "basmath",
+        "taluka_name": "BASMATH",
+        "json_file": "districts/parbhani/talukas/basmath.json"
+      },
+      {
+        "taluka_id": "gangakhed",
+        "taluka_name": "GANGAKHED",
+        "json_file": "districts/parbhani/talukas/gangakhed.json"
+      },
+      {
+        "taluka_id": "jintur",
+        "taluka_name": "JINTUR",
+        "json_file": "districts/parbhani/talukas/jintur.json"
+      },
+      {
+        "taluka_id": "kalamnuri",
+        "taluka_name": "KALAMNURI",
+        "json_file": "districts/parbhani/talukas/kalamnuri.json"
+      },
+      {
+        "taluka_id": "manwat",
+        "taluka_name": "MANWAT",
+        "json_file": "districts/parbhani/talukas/manwat.json"
+      },
+      {
+        "taluka_id": "parabhani",
+        "taluka_name": "PARABHANI",
+        "json_file": "districts/parbhani/talukas/parabhani.json"
+      },
+      {
+        "taluka_id": "pathari",
+        "taluka_name": "PATHARI",
+        "json_file": "districts/parbhani/talukas/pathari.json"
+      },
+      {
+        "taluka_id": "purnachamay",
+        "taluka_name": "PURNACHAMAY",
+        "json_file": "districts/parbhani/talukas/purnachamay.json"
+      },
+      {
+        "taluka_id": "sailu",
+        "taluka_name": "SAILU",
+        "json_file": "districts/parbhani/talukas/sailu.json"
+      },
+      {
+        "taluka_id": "selu",
+        "taluka_name": "SELU",
+        "json_file": "districts/parbhani/talukas/selu.json"
+      },
+      {
+        "taluka_id": "sonpeth",
+        "taluka_name": "SONPETH",
+        "json_file": "districts/parbhani/talukas/sonpeth.json"
+      }
+    ]
+  },
+  {
+    "district_id": "nanded",
+    "district_name": "Nanded",
+    "taluka_count": 17,
+    "district_file": "districts/nanded/district.json",
+    "talukas_dir": "districts/nanded/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "biloli",
+        "taluka_name": "BILOLI",
+        "json_file": "districts/nanded/talukas/biloli.json"
+      },
+      {
+        "taluka_id": "bokarand",
+        "taluka_name": "BOKARAND",
+        "json_file": "districts/nanded/talukas/bokarand.json"
+      },
+      {
+        "taluka_id": "degaon",
+        "taluka_name": "DEGAON",
+        "json_file": "districts/nanded/talukas/degaon.json"
+      },
+      {
+        "taluka_id": "dharmabad",
+        "taluka_name": "DHARMABAD",
+        "json_file": "districts/nanded/talukas/dharmabad.json"
+      },
+      {
+        "taluka_id": "ghamatika",
+        "taluka_name": "GHAMATIKA",
+        "json_file": "districts/nanded/talukas/ghamatika.json"
+      },
+      {
+        "taluka_id": "kinwat",
+        "taluka_name": "KINWAT",
+        "json_file": "districts/nanded/talukas/kinwat.json"
+      },
+      {
+        "taluka_id": "makhad",
+        "taluka_name": "MAKHAD",
+        "json_file": "districts/nanded/talukas/makhad.json"
+      },
+      {
+        "taluka_id": "mandvi",
+        "taluka_name": "MANDVI",
+        "json_file": "districts/nanded/talukas/mandvi.json"
+      },
+      {
+        "taluka_id": "nandgaon",
+        "taluka_name": "NANDGAON",
+        "json_file": "districts/nanded/talukas/nandgaon.json"
+      },
+      {
+        "taluka_id": "nandur",
+        "taluka_name": "NANDUR",
+        "json_file": "districts/nanded/talukas/nandur.json"
+      },
+      {
+        "taluka_id": "nanded",
+        "taluka_name": "NANDED",
+        "json_file": "districts/nanded/talukas/nanded.json"
+      },
+      {
+        "taluka_id": "nazar",
+        "taluka_name": "NAZAR",
+        "json_file": "districts/nanded/talukas/nazar.json"
+      },
+      {
+        "taluka_id": "ooni",
+        "taluka_name": "OONI",
+        "json_file": "districts/nanded/talukas/ooni.json"
+      },
+      {
+        "taluka_id": "umra",
+        "taluka_name": "UMRA",
+        "json_file": "districts/nanded/talukas/umra.json"
+      },
+      {
+        "taluka_id": "vishnupuri",
+        "taluka_name": "VISHNUPURI",
+        "json_file": "districts/nanded/talukas/vishnupuri.json"
+      },
+      {
+        "taluka_id": "visora",
+        "taluka_name": "VISORA",
+        "json_file": "districts/nanded/talukas/visora.json"
+      },
+      {
+        "taluka_id": "waghala",
+        "taluka_name": "WAGHALA",
+        "json_file": "districts/nanded/talukas/waghala.json"
+      }
+    ]
+  },
+  {
+    "district_id": "akola",
+    "district_name": "Akola",
+    "taluka_count": 7,
+    "district_file": "districts/akola/district.json",
+    "talukas_dir": "districts/akola/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "akot",
+        "taluka_name": "AKOT",
+        "json_file": "districts/akola/talukas/akot.json"
+      },
+      {
+        "taluka_id": "akola",
+        "taluka_name": "AKOLA",
+        "json_file": "districts/akola/talukas/akola.json"
+      },
+      {
+        "taluka_id": "balapur",
+        "taluka_name": "BALAPUR",
+        "json_file": "districts/akola/talukas/balapur.json"
+      },
+      {
+        "taluka_id": "murtijapur",
+        "taluka_name": "MURTIJAPUR",
+        "json_file": "districts/akola/talukas/murtijapur.json"
+      },
+      {
+        "taluka_id": "piwatri",
+        "taluka_name": "PIWATRI",
+        "json_file": "districts/akola/talukas/piwatri.json"
+      },
+      {
+        "taluka_id": "telhara",
+        "taluka_name": "TELHARA",
+        "json_file": "districts/akola/talukas/telhara.json"
+      },
+      {
+        "taluka_id": "karanja",
+        "taluka_name": "KARANJA",
+        "json_file": "districts/akola/talukas/karanja.json"
+      }
+    ]
+  },
+  {
+    "district_id": "buldhana",
+    "district_name": "Buldhana",
+    "taluka_count": 12,
+    "district_file": "districts/buldhana/district.json",
+    "talukas_dir": "districts/buldhana/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "buldhana",
+        "taluka_name": "BULDHANA",
+        "json_file": "districts/buldhana/talukas/buldhana.json"
+      },
+      {
+        "taluka_id": "chikhali",
+        "taluka_name": "CHIKHALI",
+        "json_file": "districts/buldhana/talukas/chikhali.json"
+      },
+      {
+        "taluka_id": "deulgaon",
+        "taluka_name": "DEULGAON",
+        "json_file": "districts/buldhana/talukas/deulgaon.json"
+      },
+      {
+        "taluka_id": "dhad",
+        "taluka_name": "DHAD",
+        "json_file": "districts/buldhana/talukas/dhad.json"
+      },
+      {
+        "taluka_id": "jalgaon",
+        "taluka_name": "JALGAON",
+        "json_file": "districts/buldhana/talukas/jalgaon.json"
+      },
+      {
+        "taluka_id": "khamgaon",
+        "taluka_name": "KHAMGAON",
+        "json_file": "districts/buldhana/talukas/khamgaon.json"
+      },
+      {
+        "taluka_id": "lonar",
+        "taluka_name": "LONAR",
+        "json_file": "districts/buldhana/talukas/lonar.json"
+      },
+      {
+        "taluka_id": "malkapur",
+        "taluka_name": "MALKAPUR",
+        "json_file": "districts/buldhana/talukas/malkapur.json"
+      },
+      {
+        "taluka_id": "mehkar",
+        "taluka_name": "MEHKAR",
+        "json_file": "districts/buldhana/talukas/mehkar.json"
+      },
+      {
+        "taluka_id": "nandura",
+        "taluka_name": "NANDURA",
+        "json_file": "districts/buldhana/talukas/nandura.json"
+      },
+      {
+        "taluka_id": "shegaon",
+        "taluka_name": "SHEGAON",
+        "json_file": "districts/buldhana/talukas/shegaon.json"
+      },
+      {
+        "taluka_id": "sindkheda",
+        "taluka_name": "SINDKHEDA",
+        "json_file": "districts/buldhana/talukas/sindkheda.json"
+      }
+    ]
+  },
+  {
+    "district_id": "washim",
+    "district_name": "Washim",
+    "taluka_count": 4,
+    "district_file": "districts/washim/district.json",
+    "talukas_dir": "districts/washim/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "karanja",
+        "taluka_name": "Karanja",
+        "json_file": "districts/washim/talukas/karanja.json"
+      },
+      {
+        "taluka_id": "mangrulpir",
+        "taluka_name": "Mangrulpir",
+        "json_file": "districts/washim/talukas/mangrulpir.json"
+      },
+      {
+        "taluka_id": "risod",
+        "taluka_name": "Risod",
+        "json_file": "districts/washim/talukas/risod.json"
+      },
+      {
+        "taluka_id": "washim",
+        "taluka_name": "Washim",
+        "json_file": "districts/washim/talukas/washim.json"
+      }
+    ]
+  },
+  {
+    "district_id": "yavatmal",
+    "district_name": "Yavatmal",
+    "taluka_count": 11,
+    "district_file": "districts/yavatmal/district.json",
+    "talukas_dir": "districts/yavatmal/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "arini",
+        "taluka_name": "ARINI",
+        "json_file": "districts/yavatmal/talukas/arini.json"
+      },
+      {
+        "taluka_id": "bhairavdi",
+        "taluka_name": "BHAIRAVDI",
+        "json_file": "districts/yavatmal/talukas/bhairavdi.json"
+      },
+      {
+        "taluka_id": "darwha",
+        "taluka_name": "DARWHA",
+        "json_file": "districts/yavatmal/talukas/darwha.json"
+      },
+      {
+        "taluka_id": "ghatanji",
+        "taluka_name": "GHATANJI",
+        "json_file": "districts/yavatmal/talukas/ghatanji.json"
+      },
+      {
+        "taluka_id": "karanji",
+        "taluka_name": "KARANJI",
+        "json_file": "districts/yavatmal/talukas/karanji.json"
+      },
+      {
+        "taluka_id": "mahagaon",
+        "taluka_name": "MAHAGAON",
+        "json_file": "districts/yavatmal/talukas/mahagaon.json"
+      },
+      {
+        "taluka_id": "nagpur",
+        "taluka_name": "NAGPUR",
+        "json_file": "districts/yavatmal/talukas/nagpur.json"
+      },
+      {
+        "taluka_id": "pusad",
+        "taluka_name": "PUSAD",
+        "json_file": "districts/yavatmal/talukas/pusad.json"
+      },
+      {
+        "taluka_id": "umarkhed",
+        "taluka_name": "UMARKHED",
+        "json_file": "districts/yavatmal/talukas/umarkhed.json"
+      },
+      {
+        "taluka_id": "wani",
+        "taluka_name": "WANI",
+        "json_file": "districts/yavatmal/talukas/wani.json"
+      },
+      {
+        "taluka_id": "yavatmal",
+        "taluka_name": "YAVATMAL",
+        "json_file": "districts/yavatmal/talukas/yavatmal.json"
+      }
+    ]
+  },
+  {
+    "district_id": "amravati",
+    "district_name": "Amravati",
+    "taluka_count": 12,
+    "district_file": "districts/amravati/district.json",
+    "talukas_dir": "districts/amravati/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "achalpur",
+        "taluka_name": "ACHALPUR",
+        "json_file": "districts/amravati/talukas/achalpur.json"
+      },
+      {
+        "taluka_id": "amravati",
+        "taluka_name": "AMRAVATI",
+        "json_file": "districts/amravati/talukas/amravati.json"
+      },
+      {
+        "taluka_id": "anjangaon",
+        "taluka_name": "ANJANGAON",
+        "json_file": "districts/amravati/talukas/anjangaon.json"
+      },
+      {
+        "taluka_id": "chandur",
+        "taluka_name": "CHANDUR",
+        "json_file": "districts/amravati/talukas/chandur.json"
+      },
+      {
+        "taluka_id": "chandur_bazar",
+        "taluka_name": "CHANDUR BAZAR",
+        "json_file": "districts/amravati/talukas/chandur_bazar.json"
+      },
+      {
+        "taluka_id": "daryapur",
+        "taluka_name": "DARYAPUR",
+        "json_file": "districts/amravati/talukas/daryapur.json"
+      },
+      {
+        "taluka_id": "murtijapur",
+        "taluka_name": "MURTIJAPUR",
+        "json_file": "districts/amravati/talukas/murtijapur.json"
+      },
+      {
+        "taluka_id": "shendurjana",
+        "taluka_name": "SHENDURJANA",
+        "json_file": "districts/amravati/talukas/shendurjana.json"
+      },
+      {
+        "taluka_id": "warud",
+        "taluka_name": "WARUD",
+        "json_file": "districts/amravati/talukas/warud.json"
+      },
+      {
+        "taluka_id": "dhaman_railway",
+        "taluka_name": "DHAMAN Railway",
+        "json_file": "districts/amravati/talukas/dhaman_railway.json"
+      },
+      {
+        "taluka_id": "morshi",
+        "taluka_name": "MORSHI",
+        "json_file": "districts/amravati/talukas/morshi.json"
+      },
+      {
+        "taluka_id": "shendurajanaghat",
+        "taluka_name": "SHENDURAJANAGHAT",
+        "json_file": "districts/amravati/talukas/shendurajanaghat.json"
+      }
+    ]
+  },
+  {
+    "district_id": "nagpur",
+    "district_name": "Nagpur",
+    "taluka_count": 22,
+    "district_file": "districts/nagpur/district.json",
+    "talukas_dir": "districts/nagpur/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "butibori",
+        "taluka_name": "BUTIBORI",
+        "json_file": "districts/nagpur/talukas/butibori.json"
+      },
+      {
+        "taluka_id": "hingna",
+        "taluka_name": "HINGNA",
+        "json_file": "districts/nagpur/talukas/hingna.json"
+      },
+      {
+        "taluka_id": "kamptee",
+        "taluka_name": "KAMPTEE",
+        "json_file": "districts/nagpur/talukas/kamptee.json"
+      },
+      {
+        "taluka_id": "katol",
+        "taluka_name": "KATOL",
+        "json_file": "districts/nagpur/talukas/katol.json"
+      },
+      {
+        "taluka_id": "koradi",
+        "taluka_name": "KORADI",
+        "json_file": "districts/nagpur/talukas/koradi.json"
+      },
+      {
+        "taluka_id": "kondhali",
+        "taluka_name": "KONDHALI",
+        "json_file": "districts/nagpur/talukas/kondhali.json"
+      },
+      {
+        "taluka_id": "kumbhari",
+        "taluka_name": "KUMBHARI",
+        "json_file": "districts/nagpur/talukas/kumbhari.json"
+      },
+      {
+        "taluka_id": "nagpur_(rural)",
+        "taluka_name": "NAGPUR (RURAL)",
+        "json_file": "districts/nagpur/talukas/nagpur_(rural).json"
+      },
+      {
+        "taluka_id": "nagpur",
+        "taluka_name": "NAGPUR",
+        "json_file": "districts/nagpur/talukas/nagpur.json"
+      },
+      {
+        "taluka_id": "saoner",
+        "taluka_name": "SAONER",
+        "json_file": "districts/nagpur/talukas/saoner.json"
+      },
+      {
+        "taluka_id": "umred",
+        "taluka_name": "UMRED",
+        "json_file": "districts/nagpur/talukas/umred.json"
+      },
+      {
+        "taluka_id": "umarkhed",
+        "taluka_name": "UMARKHED",
+        "json_file": "districts/nagpur/talukas/umarkhed.json"
+      },
+      {
+        "taluka_id": "kalameshwar",
+        "taluka_name": "Kalameshwar",
+        "json_file": "districts/nagpur/talukas/kalameshwar.json"
+      },
+      {
+        "taluka_id": "kamadhi",
+        "taluka_name": "Kamadhi",
+        "json_file": "districts/nagpur/talukas/kamadhi.json"
+      },
+      {
+        "taluka_id": "ramtek",
+        "taluka_name": "Ramtek",
+        "json_file": "districts/nagpur/talukas/ramtek.json"
+      },
+      {
+        "taluka_id": "movad",
+        "taluka_name": "Movad",
+        "json_file": "districts/nagpur/talukas/movad.json"
+      },
+      {
+        "taluka_id": "khapa",
+        "taluka_name": "Khapa",
+        "json_file": "districts/nagpur/talukas/khapa.json"
+      },
+      {
+        "taluka_id": "mahapa",
+        "taluka_name": "Mahapa",
+        "json_file": "districts/nagpur/talukas/mahapa.json"
+      },
+      {
+        "taluka_id": "narkhed",
+        "taluka_name": "Narkhed",
+        "json_file": "districts/nagpur/talukas/narkhed.json"
+      },
+      {
+        "taluka_id": "savaner",
+        "taluka_name": "Savaner",
+        "json_file": "districts/nagpur/talukas/savaner.json"
+      },
+      {
+        "taluka_id": "nagar_(municipal_corporation)",
+        "taluka_name": "Nagar (Municipal Corporation)",
+        "json_file": "districts/nagpur/talukas/nagar_(municipal_corporation).json"
+      },
+      {
+        "taluka_id": "bhivarur_non_np",
+        "taluka_name": "Bhivarur Non NP",
+        "json_file": "districts/nagpur/talukas/bhivarur_non_np.json"
+      }
+    ]
+  },
+  {
+    "district_id": "wardha",
+    "district_name": "Wardha",
+    "taluka_count": 1,
+    "district_file": "districts/wardha/district.json",
+    "talukas_dir": "districts/wardha/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "wardha",
+        "taluka_name": "WARDHA",
+        "json_file": "districts/wardha/talukas/wardha.json"
+      }
+    ]
+  },
+  {
+    "district_id": "bhandara",
+    "district_name": "Bhandara",
+    "taluka_count": 11,
+    "district_file": "districts/bhandara/district.json",
+    "talukas_dir": "districts/bhandara/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "bhandara",
+        "taluka_name": "BHANDARA",
+        "json_file": "districts/bhandara/talukas/bhandara.json"
+      },
+      {
+        "taluka_id": "bhiwapur",
+        "taluka_name": "BHIWAPUR",
+        "json_file": "districts/bhandara/talukas/bhiwapur.json"
+      },
+      {
+        "taluka_id": "dongargarh",
+        "taluka_name": "DONGARGARH",
+        "json_file": "districts/bhandara/talukas/dongargarh.json"
+      },
+      {
+        "taluka_id": "lakhandur",
+        "taluka_name": "LAKHANDUR",
+        "json_file": "districts/bhandara/talukas/lakhandur.json"
+      },
+      {
+        "taluka_id": "sandghi",
+        "taluka_name": "SANDGHI",
+        "json_file": "districts/bhandara/talukas/sandghi.json"
+      },
+      {
+        "taluka_id": "sawar",
+        "taluka_name": "SAWAR",
+        "json_file": "districts/bhandara/talukas/sawar.json"
+      },
+      {
+        "taluka_id": "sawargaon",
+        "taluka_name": "SAWARGAON",
+        "json_file": "districts/bhandara/talukas/sawargaon.json"
+      },
+      {
+        "taluka_id": "tumsar",
+        "taluka_name": "Tumsar",
+        "json_file": "districts/bhandara/talukas/tumsar.json"
+      },
+      {
+        "taluka_id": "pauni",
+        "taluka_name": "Pauni",
+        "json_file": "districts/bhandara/talukas/pauni.json"
+      },
+      {
+        "taluka_id": "lakhani",
+        "taluka_name": "Lakhani",
+        "json_file": "districts/bhandara/talukas/lakhani.json"
+      },
+      {
+        "taluka_id": "sakoli",
+        "taluka_name": "Sakoli",
+        "json_file": "districts/bhandara/talukas/sakoli.json"
+      }
+    ]
+  },
+  {
+    "district_id": "gondia",
+    "district_name": "Gondia",
+    "taluka_count": 3,
+    "district_file": "districts/gondia/district.json",
+    "talukas_dir": "districts/gondia/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "gondia",
+        "taluka_name": "GONDIA",
+        "json_file": "districts/gondia/talukas/gondia.json"
+      },
+      {
+        "taluka_id": "tiroda",
+        "taluka_name": "Tiroda",
+        "json_file": "districts/gondia/talukas/tiroda.json"
+      },
+      {
+        "taluka_id": "deori_(non-city_council)",
+        "taluka_name": "Deori (non-city council)",
+        "json_file": "districts/gondia/talukas/deori_(non-city_council).json"
+      }
+    ]
+  },
+  {
+    "district_id": "chandrapur",
+    "district_name": "Chandrapur",
+    "taluka_count": 12,
+    "district_file": "districts/chandrapur/district.json",
+    "talukas_dir": "districts/chandrapur/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "ballarpur",
+        "taluka_name": "BALLARPUR",
+        "json_file": "districts/chandrapur/talukas/ballarpur.json"
+      },
+      {
+        "taluka_id": "bhadravati",
+        "taluka_name": "BHADRAVATI",
+        "json_file": "districts/chandrapur/talukas/bhadravati.json"
+      },
+      {
+        "taluka_id": "chandrapur",
+        "taluka_name": "CHANDRAPUR",
+        "json_file": "districts/chandrapur/talukas/chandrapur.json"
+      },
+      {
+        "taluka_id": "nagbhir",
+        "taluka_name": "NAGBHIR",
+        "json_file": "districts/chandrapur/talukas/nagbhir.json"
+      },
+      {
+        "taluka_id": "saoli",
+        "taluka_name": "SAOLI",
+        "json_file": "districts/chandrapur/talukas/saoli.json"
+      },
+      {
+        "taluka_id": "wani",
+        "taluka_name": "WANI",
+        "json_file": "districts/chandrapur/talukas/wani.json"
+      },
+      {
+        "taluka_id": "brahmapuri",
+        "taluka_name": "Brahmapuri",
+        "json_file": "districts/chandrapur/talukas/brahmapuri.json"
+      },
+      {
+        "taluka_id": "warora",
+        "taluka_name": "Warora",
+        "json_file": "districts/chandrapur/talukas/warora.json"
+      },
+      {
+        "taluka_id": "mul",
+        "taluka_name": "Mul",
+        "json_file": "districts/chandrapur/talukas/mul.json"
+      },
+      {
+        "taluka_id": "rajura",
+        "taluka_name": "Rajura",
+        "json_file": "districts/chandrapur/talukas/rajura.json"
+      },
+      {
+        "taluka_id": "chandrapur_(municipality)",
+        "taluka_name": "Chandrapur (municipality)",
+        "json_file": "districts/chandrapur/talukas/chandrapur_(municipality).json"
+      },
+      {
+        "taluka_id": "bhadravati",
+        "taluka_name": "Bhadravati",
+        "json_file": "districts/chandrapur/talukas/bhadravati.json"
+      }
+    ]
+  },
+  {
+    "district_id": "gadchiroli",
+    "district_name": "Gadchiroli",
+    "taluka_count": 9,
+    "district_file": "districts/gadchiroli/district.json",
+    "talukas_dir": "districts/gadchiroli/talukas/",
+    "talukas": [
+      {
+        "taluka_id": "aheri",
+        "taluka_name": "AHERI",
+        "json_file": "districts/gadchiroli/talukas/aheri.json"
+      },
+      {
+        "taluka_id": "bhamaragad",
+        "taluka_name": "BHAMARAGAD",
+        "json_file": "districts/gadchiroli/talukas/bhamaragad.json"
+      },
+      {
+        "taluka_id": "chamorshi",
+        "taluka_name": "CHAMORSHI",
+        "json_file": "districts/gadchiroli/talukas/chamorshi.json"
+      },
+      {
+        "taluka_id": "dhanora",
+        "taluka_name": "DHANORA",
+        "json_file": "districts/gadchiroli/talukas/dhanora.json"
+      },
+      {
+        "taluka_id": "gadchiroli",
+        "taluka_name": "GADCHIROLI",
+        "json_file": "districts/gadchiroli/talukas/gadchiroli.json"
+      },
+      {
+        "taluka_id": "sironcha",
+        "taluka_name": "SIRONCHA",
+        "json_file": "districts/gadchiroli/talukas/sironcha.json"
+      },
+      {
+        "taluka_id": "gadchiroli",
+        "taluka_name": "GADCHIROLI",
+        "json_file": "districts/gadchiroli/talukas/gadchiroli.json"
+      },
+      {
+        "taluka_id": "desaiganj",
+        "taluka_name": "Desaiganj",
+        "json_file": "districts/gadchiroli/talukas/desaiganj.json"
+      },
+      {
+        "taluka_id": "armory_(non-city_council)",
+        "taluka_name": "Armory (non-city council)",
+        "json_file": "districts/gadchiroli/talukas/armory_(non-city_council).json"
+      }
+    ]
+  }
+]

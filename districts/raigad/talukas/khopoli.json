@@ -1,0 +1,18 @@
+{
+  "district_id": "raigad",
+  "district_name": "Raigad",
+  "taluka_id": "khopoli",
+  "taluka_name": "KHOPOLI",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=raigad&tal=khopoli&languages=",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=raigad&tal=khopoli&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=raigad&tal=khopoli&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=raigad&tal=khopoli&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/raigad/pdfs/khopoli",
+  "downloaded_pdfs": [],
+  "scraped_with_playwright": true,
+  "last_scraped_at": "2026-08-10 17:56:17",
+  "pdfs_found": 0
+}

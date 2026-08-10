@@ -1,0 +1,15 @@
+{
+  "district_id": "nagpur",
+  "district_name": "Nagpur",
+  "taluka_id": "nagpur",
+  "taluka_name": "NAGPUR",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=nagpur",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=nagpur&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=nagpur&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=nagpur&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/nagpur/pdfs/nagpur",
+  "downloaded_pdfs": []
+}

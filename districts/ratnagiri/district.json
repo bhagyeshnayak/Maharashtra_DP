@@ -1,0 +1,29 @@
+{
+  "district_id": "ratnagiri",
+  "district_name": "Ratnagiri",
+  "total_talukas": 5,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ratnagiri",
+  "talukas": [
+    {
+      "taluka_name": "CHIPLUN",
+      "taluka_id": "chiplun"
+    },
+    {
+      "taluka_name": "DAPOLI",
+      "taluka_id": "dapoli"
+    },
+    {
+      "taluka_name": "KHED",
+      "taluka_id": "khed"
+    },
+    {
+      "taluka_name": "RAJAPUR",
+      "taluka_id": "rajapur"
+    },
+    {
+      "taluka_name": "RATNAGIRI",
+      "taluka_id": "ratnagiri"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ratnagiri"
+}

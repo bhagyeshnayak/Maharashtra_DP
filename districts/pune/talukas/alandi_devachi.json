@@ -1,0 +1,15 @@
+{
+  "district_id": "pune",
+  "district_name": "Pune",
+  "taluka_id": "alandi_devachi",
+  "taluka_name": "ALANDI DEVACHI",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=alandi_devachi",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=alandi_devachi&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=alandi_devachi&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=alandi_devachi&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/pune/pdfs/alandi_devachi",
+  "downloaded_pdfs": []
+}

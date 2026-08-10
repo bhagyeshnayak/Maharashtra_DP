@@ -1,0 +1,53 @@
+{
+  "district_id": "raigad",
+  "district_name": "Raigad",
+  "total_talukas": 11,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=raigad",
+  "talukas": [
+    {
+      "taluka_name": "ALIBAUG",
+      "taluka_id": "alibaug"
+    },
+    {
+      "taluka_name": "KARJAT",
+      "taluka_id": "karjat"
+    },
+    {
+      "taluka_name": "KHOPOLI",
+      "taluka_id": "khopoli"
+    },
+    {
+      "taluka_name": "MAHAD",
+      "taluka_id": "mahad"
+    },
+    {
+      "taluka_name": "MATHERAN",
+      "taluka_id": "matheran"
+    },
+    {
+      "taluka_name": "MURUD JANJIRA",
+      "taluka_id": "murud_janjira"
+    },
+    {
+      "taluka_name": "PANVEL",
+      "taluka_id": "panvel"
+    },
+    {
+      "taluka_name": "PEN",
+      "taluka_id": "pen"
+    },
+    {
+      "taluka_name": "ROHA",
+      "taluka_id": "roha"
+    },
+    {
+      "taluka_name": "SHREEVARDHAN",
+      "taluka_id": "shreevardhan"
+    },
+    {
+      "taluka_name": "URAN",
+      "taluka_id": "uran"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=raigad"
+}

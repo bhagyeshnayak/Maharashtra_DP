@@ -1,0 +1,21 @@
+{
+  "district_id": "hingoli",
+  "district_name": "Hingoli",
+  "total_talukas": 3,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=hingoli",
+  "talukas": [
+    {
+      "taluka_name": "Hingoli",
+      "taluka_id": "hingoli"
+    },
+    {
+      "taluka_name": "VASMATNAGAR",
+      "taluka_id": "vasmatnagar"
+    },
+    {
+      "taluka_name": "KALAMNURI",
+      "taluka_id": "kalamnuri"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=hingoli"
+}

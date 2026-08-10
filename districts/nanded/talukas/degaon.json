@@ -1,0 +1,15 @@
+{
+  "district_id": "nanded",
+  "district_name": "Nanded",
+  "taluka_id": "degaon",
+  "taluka_name": "DEGAON",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=degaon",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=degaon&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=degaon&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=degaon&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/nanded/pdfs/degaon",
+  "downloaded_pdfs": []
+}

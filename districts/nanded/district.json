@@ -1,0 +1,77 @@
+{
+  "district_id": "nanded",
+  "district_name": "Nanded",
+  "total_talukas": 17,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded",
+  "talukas": [
+    {
+      "taluka_name": "BILOLI",
+      "taluka_id": "biloli"
+    },
+    {
+      "taluka_name": "BOKARAND",
+      "taluka_id": "bokarand"
+    },
+    {
+      "taluka_name": "DEGAON",
+      "taluka_id": "degaon"
+    },
+    {
+      "taluka_name": "DHARMABAD",
+      "taluka_id": "dharmabad"
+    },
+    {
+      "taluka_name": "GHAMATIKA",
+      "taluka_id": "ghamatika"
+    },
+    {
+      "taluka_name": "KINWAT",
+      "taluka_id": "kinwat"
+    },
+    {
+      "taluka_name": "MAKHAD",
+      "taluka_id": "makhad"
+    },
+    {
+      "taluka_name": "MANDVI",
+      "taluka_id": "mandvi"
+    },
+    {
+      "taluka_name": "NANDGAON",
+      "taluka_id": "nandgaon"
+    },
+    {
+      "taluka_name": "NANDUR",
+      "taluka_id": "nandur"
+    },
+    {
+      "taluka_name": "NANDED",
+      "taluka_id": "nanded"
+    },
+    {
+      "taluka_name": "NAZAR",
+      "taluka_id": "nazar"
+    },
+    {
+      "taluka_name": "OONI",
+      "taluka_id": "ooni"
+    },
+    {
+      "taluka_name": "UMRA",
+      "taluka_id": "umra"
+    },
+    {
+      "taluka_name": "VISHNUPURI",
+      "taluka_id": "vishnupuri"
+    },
+    {
+      "taluka_name": "VISORA",
+      "taluka_id": "visora"
+    },
+    {
+      "taluka_name": "WAGHALA",
+      "taluka_id": "waghala"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded"
+}

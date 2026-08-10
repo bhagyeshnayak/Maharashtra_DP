@@ -1,0 +1,15 @@
+{
+  "district_id": "parbhani",
+  "district_name": "Parbhani",
+  "taluka_id": "selu",
+  "taluka_name": "SELU",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=selu",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=selu&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=selu&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=selu&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/parbhani/pdfs/selu",
+  "downloaded_pdfs": []
+}

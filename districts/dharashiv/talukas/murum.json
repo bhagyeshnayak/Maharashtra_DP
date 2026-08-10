@@ -1,0 +1,15 @@
+{
+  "district_id": "dharashiv",
+  "district_name": "Dharashiv",
+  "taluka_id": "murum",
+  "taluka_name": "MURUM",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=murum",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=murum&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=murum&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=murum&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/dharashiv/pdfs/murum",
+  "downloaded_pdfs": []
+}

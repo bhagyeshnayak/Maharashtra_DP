@@ -1,0 +1,383 @@
+{
+  "palghar": [
+    "DAHANU",
+    "JAVAHAR",
+    "PALGHAR",
+    "VASAI Virar",
+    "UMbarpada"
+  ],
+  "thane": [
+    "AMBERNATH",
+    "BHIVANDI- NIJAMPUR",
+    "Badlapur (M Cl)",
+    "KALYAN & DOMBIVALI & AMBERNATH (27 VILAGE)",
+    "KALYAN & DOMBIVALI (SEC.3,6,7)  R",
+    "MIRA BHAINDAR COR",
+    "BHIVANDI (57 Village)",
+    "THANE",
+    "MUMBAI",
+    "NAVI MUMBAI",
+    "ULHASNAGAR"
+  ],
+  "raigad": [
+    "ALIBAUG",
+    "KARJAT",
+    "KHOPOLI",
+    "MAHAD",
+    "MATHERAN",
+    "MURUD JANJIRA",
+    "PANVEL",
+    "PEN",
+    "ROHA",
+    "SHREEVARDHAN",
+    "URAN"
+  ],
+  "ratnagiri": [
+    "CHIPLUN",
+    "DAPOLI",
+    "KHED",
+    "RAJAPUR",
+    "RATNAGIRI"
+  ],
+  "sindhudurg": [
+    "KANKAVLI",
+    "MALVAN",
+    "SAWANTWADI",
+    "VENGURLA"
+  ],
+  "kolhapur": [
+    "GADHINGLAJ",
+    "ICHALKARANJI",
+    "JAYSINGHPUR",
+    "Kolhapur",
+    "KAGAL",
+    "KURUNDWAD",
+    "MURGUD",
+    "PANHALA",
+    "VADGAON"
+  ],
+  "sangli": [
+    "ASHTA",
+    "ISLAMPUR",
+    "SANGLI/MIRAJ/KUPWADA/SANGALWADI",
+    "TASGAON",
+    "VITA"
+  ],
+  "satara": [
+    "KARAD",
+    "KOREGAON",
+    "MAHABLESHWAR",
+    "MALKAPUR",
+    "MHASWAD",
+    "PANCHGANI",
+    "PHALTAN",
+    "RAHIMATPUR",
+    "SATARA",
+    "Lonand",
+    "WAI"
+  ],
+  "solapur": [
+    "AKKALKOT",
+    "AKALUJ",
+    "BARSHI",
+    "DUDHANI",
+    "KARMALA",
+    "KURUDWADI",
+    "MAIDARGI",
+    "MAGALVEDHA",
+    "PANDHARPUR",
+    "SANGOLA",
+    "SOLAPUR _JULE",
+    "SOLAPUR"
+  ],
+  "pune": [
+    "BHOR",
+    "ALANDI DEVACHI",
+    "JUNNER",
+    "LONAWALA",
+    "LONI KALBHOR",
+    "PCMC",
+    "PCNTDA",
+    "PUNE",
+    "SHIRUR",
+    "TALEGAON",
+    "BARAMATI",
+    "DAUND",
+    "INDAPUR",
+    "SASAWAD",
+    "JEJURI"
+  ],
+  "ahilyanagar": [
+    "Ahilyanagar PLAN A&B",
+    "Ahilyanagar (12VILAGE)",
+    "BELAPUR",
+    "DEVLALI-PRAVARA",
+    "KOPARGAON",
+    "NEVASA",
+    "PATHERDI",
+    "RAHTA PIMPLAS",
+    "RAHURI",
+    "SANGAMNER",
+    "SHEVGAON",
+    "SHIRDI",
+    "SHRI GONDA",
+    "SHRIRAMPUR"
+  ],
+  "nashik": [
+    "BHAGUR",
+    "IGATPURI",
+    "MALEGAON",
+    "MANMAD",
+    "NANDGAON",
+    "NASHIK",
+    "SAPTSHRUNGI GADH",
+    "SATANA",
+    "SINNER",
+    "TRIMBAK",
+    "DEOLALI",
+    "YEVALA",
+    "SATPUR"
+  ],
+  "jalgaon": [
+    "BHUSAWAL",
+    "CHALISGAON",
+    "Bhadgaon",
+    "CHOPDA",
+    "DHARANGAON",
+    "ERANDOL",
+    "FAIZPUR",
+    "JALGAON",
+    "JAMNER",
+    "PACHORA",
+    "PAROLA",
+    "RAVER",
+    "SAVDA",
+    "YAVAL",
+    "AMALNER"
+  ],
+  "dhule": [
+    "Dhule",
+    "Dhondaicha Varved",
+    "Shirpur Varved"
+  ],
+  "nandurbar": [
+    "NANDURBAR",
+    "NAVAPUR",
+    "SHAHADA",
+    "TALODA"
+  ],
+  "dharashiv": [
+    "BHUM",
+    "KALANMB",
+    "MURUM",
+    "Dharashiv",
+    "TULJAPUR",
+    "UMARGA"
+  ],
+  "chatrapati_sambhajinagar": [
+    " Chhatrapati Sambhajinagar",
+    "GANGAPUR",
+    "KANAD",
+    "PAITHAN",
+    "PHULAMBRI",
+    "SHAMGAON",
+    "VAJIRABAD",
+    "CHAKAN"
+  ],
+  "jalna": [
+    "AMBAD",
+    "BADNAPUR",
+    "BHOKARDAN",
+    "GHANSAWANGI",
+    "JAFRABAD",
+    "JALNA",
+    "MANAD",
+    "PARTUR"
+  ],
+  "beed": [
+    "ASHTI",
+    "BEED",
+    "DHARUR",
+    "GAVRI",
+    "KAJ",
+    "MAJALGAON",
+    "WADWANI"
+  ],
+  "latur": [
+    "AUSA",
+    "LATUR",
+    "LATUR PLAN-A",
+    "LATUR PLAN-B",
+    "UDGIR"
+  ],
+  "hingoli": [
+    "Hingoli",
+    "VASMATNAGAR",
+    "KALAMNURI"
+  ],
+  "parbhani": [
+    "AMBAJOGAI",
+    "BASMATH",
+    "GANGAKHED",
+    "JINTUR",
+    "KALAMNURI",
+    "MANWAT",
+    "PARABHANI",
+    "PATHARI",
+    "PURNACHAMAY",
+    "SAILU",
+    "SELU",
+    "SONPETH"
+  ],
+  "nanded": [
+    "BILOLI",
+    "BOKARAND",
+    "DEGAON",
+    "DHARMABAD",
+    "GHAMATIKA",
+    "KINWAT",
+    "MAKHAD",
+    "MANDVI",
+    "NANDGAON",
+    "NANDUR",
+    "NANDED",
+    "NAZAR",
+    "OONI",
+    "UMRA",
+    "VISHNUPURI",
+    "VISORA",
+    "WAGHALA"
+  ],
+  "akola": [
+    "AKOT",
+    "AKOLA",
+    "BALAPUR",
+    "MURTIJAPUR",
+    "PIWATRI",
+    "TELHARA",
+    "KARANJA"
+  ],
+  "buldhana": [
+    "BULDHANA",
+    "CHIKHALI",
+    "DEULGAON",
+    "DHAD",
+    "JALGAON",
+    "KHAMGAON",
+    "LONAR",
+    "MALKAPUR",
+    "MEHKAR",
+    "NANDURA",
+    "SHEGAON",
+    "SINDKHEDA"
+  ],
+  "washim": [
+    "Karanja",
+    "Mangrulpir",
+    "Risod",
+    "Washim"
+  ],
+  "yavatmal": [
+    "ARINI",
+    "BHAIRAVDI",
+    "DARWHA",
+    "GHATANJI",
+    "KARANJI",
+    "MAHAGAON",
+    "NAGPUR",
+    "PUSAD",
+    "UMARKHED",
+    "WANI",
+    "YAVATMAL"
+  ],
+  "amravati": [
+    "ACHALPUR",
+    "AMRAVATI",
+    "ANJANGAON",
+    "CHANDUR",
+    "CHANDUR BAZAR",
+    "DARYAPUR",
+    "MURTIJAPUR",
+    "SHENDURJANA",
+    "WARUD",
+    "DHAMAN Railway",
+    "MORSHI",
+    "SHENDURAJANAGHAT"
+  ],
+  "nagpur": [
+    "BUTIBORI",
+    "HINGNA",
+    "KAMPTEE",
+    "KATOL",
+    "KORADI",
+    "KONDHALI",
+    "KUMBHARI",
+    "NAGPUR (RURAL)",
+    "NAGPUR",
+    "SAONER",
+    "UMRED",
+    "UMARKHED",
+    "Kalameshwar",
+    "Kamadhi",
+    "Ramtek",
+    "Movad",
+    "Khapa",
+    "Mahapa",
+    "Narkhed",
+    "Savaner",
+    "Nagar (Municipal Corporation)",
+    "Bhivarur Non NP"
+  ],
+  "wardha": [
+    "WARDHA"
+  ],
+  "bhandara": [
+    "BHANDARA",
+    "BHIWAPUR",
+    "DONGARGARH",
+    "LAKHANDUR",
+    "SANDGHI",
+    "SAWAR",
+    "SAWARGAON",
+    "Tumsar",
+    "Pauni",
+    "Lakhani",
+    "Sakoli"
+  ],
+  "gondia": [
+    "GONDIA",
+    "Tiroda",
+    "Deori (non-city council)"
+  ],
+  "chandrapur": [
+    "BALLARPUR",
+    "BHADRAVATI",
+    "CHANDRAPUR",
+    "NAGBHIR",
+    "SAOLI",
+    "WANI",
+    "Brahmapuri",
+    "Warora",
+    "Mul",
+    "Rajura",
+    "Chandrapur (municipality)",
+    "Bhadravati"
+  ],
+  "gadchiroli": [
+    "AHERI",
+    "BHAMARAGAD",
+    "CHAMORSHI",
+    "DHANORA",
+    "GADCHIROLI",
+    "SIRONCHA",
+    "GADCHIROLI",
+    "Desaiganj",
+    "Armory (non-city council)"
+  ],
+  "umred": [
+    "UMRED"
+  ],
+  "warora": [
+    "WARORA"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "district_id": "sangli",
+  "district_name": "Sangli",
+  "taluka_id": "islampur",
+  "taluka_name": "ISLAMPUR",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=islampur",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=islampur&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=islampur&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=islampur&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/sangli/pdfs/islampur",
+  "downloaded_pdfs": []
+}

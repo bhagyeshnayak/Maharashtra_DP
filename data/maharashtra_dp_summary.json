@@ -1,0 +1,177 @@
+{
+  "source": "https://dtp.maharashtra.gov.in/home/downloads/dp/",
+  "total_districts": 34,
+  "total_talukas": 307,
+  "districts_summary": [
+    {
+      "district_id": "palghar",
+      "district_name": "Palghar",
+      "taluka_count": 5
+    },
+    {
+      "district_id": "thane",
+      "district_name": "Thane",
+      "taluka_count": 11
+    },
+    {
+      "district_id": "raigad",
+      "district_name": "Raigad",
+      "taluka_count": 11
+    },
+    {
+      "district_id": "ratnagiri",
+      "district_name": "Ratnagiri",
+      "taluka_count": 5
+    },
+    {
+      "district_id": "sindhudurg",
+      "district_name": "Sindhudurg",
+      "taluka_count": 4
+    },
+    {
+      "district_id": "kolhapur",
+      "district_name": "Kolhapur",
+      "taluka_count": 9
+    },
+    {
+      "district_id": "sangli",
+      "district_name": "Sangli",
+      "taluka_count": 5
+    },
+    {
+      "district_id": "satara",
+      "district_name": "Satara",
+      "taluka_count": 11
+    },
+    {
+      "district_id": "solapur",
+      "district_name": "Solapur",
+      "taluka_count": 12
+    },
+    {
+      "district_id": "pune",
+      "district_name": "Pune",
+      "taluka_count": 15
+    },
+    {
+      "district_id": "ahilyanagr",
+      "district_name": "Ahilyanagar",
+      "taluka_count": 14
+    },
+    {
+      "district_id": "nashik",
+      "district_name": "Nashik",
+      "taluka_count": 13
+    },
+    {
+      "district_id": "jalgaon",
+      "district_name": "Jalgaon",
+      "taluka_count": 15
+    },
+    {
+      "district_id": "dhule",
+      "district_name": "Dhule",
+      "taluka_count": 3
+    },
+    {
+      "district_id": "nandurbar",
+      "district_name": "Nandurbar",
+      "taluka_count": 4
+    },
+    {
+      "district_id": "dharashiv",
+      "district_name": "Dharashiv",
+      "taluka_count": 6
+    },
+    {
+      "district_id": "chatrapati_sambhajinagar",
+      "district_name": "Chhatrapati Sambhajinagar",
+      "taluka_count": 8
+    },
+    {
+      "district_id": "jalna",
+      "district_name": "Jalna",
+      "taluka_count": 8
+    },
+    {
+      "district_id": "beed",
+      "district_name": "Beed",
+      "taluka_count": 7
+    },
+    {
+      "district_id": "latur",
+      "district_name": "Latur",
+      "taluka_count": 5
+    },
+    {
+      "district_id": "hingoli",
+      "district_name": "Hingoli",
+      "taluka_count": 3
+    },
+    {
+      "district_id": "parbhani",
+      "district_name": "Parbhani",
+      "taluka_count": 12
+    },
+    {
+      "district_id": "nanded",
+      "district_name": "Nanded",
+      "taluka_count": 17
+    },
+    {
+      "district_id": "akola",
+      "district_name": "Akola",
+      "taluka_count": 7
+    },
+    {
+      "district_id": "buldhana",
+      "district_name": "Buldhana",
+      "taluka_count": 12
+    },
+    {
+      "district_id": "washim",
+      "district_name": "Washim",
+      "taluka_count": 4
+    },
+    {
+      "district_id": "yavatmal",
+      "district_name": "Yavatmal",
+      "taluka_count": 11
+    },
+    {
+      "district_id": "amravati",
+      "district_name": "Amravati",
+      "taluka_count": 12
+    },
+    {
+      "district_id": "nagpur",
+      "district_name": "Nagpur",
+      "taluka_count": 22
+    },
+    {
+      "district_id": "wardha",
+      "district_name": "Wardha",
+      "taluka_count": 1
+    },
+    {
+      "district_id": "bhandara",
+      "district_name": "Bhandara",
+      "taluka_count": 11
+    },
+    {
+      "district_id": "gondia",
+      "district_name": "Gondia",
+      "taluka_count": 3
+    },
+    {
+      "district_id": "chandrapur",
+      "district_name": "Chandrapur",
+      "taluka_count": 12
+    },
+    {
+      "district_id": "gadchiroli",
+      "district_name": "Gadchiroli",
+      "taluka_count": 9
+    }
+  ]
+}

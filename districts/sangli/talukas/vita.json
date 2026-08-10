@@ -1,0 +1,15 @@
+{
+  "district_id": "sangli",
+  "district_name": "Sangli",
+  "taluka_id": "vita",
+  "taluka_name": "VITA",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=vita",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=vita&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=vita&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=vita&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/sangli/pdfs/vita",
+  "downloaded_pdfs": []
+}

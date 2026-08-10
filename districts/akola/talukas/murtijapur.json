@@ -1,0 +1,15 @@
+{
+  "district_id": "akola",
+  "district_name": "Akola",
+  "taluka_id": "murtijapur",
+  "taluka_name": "MURTIJAPUR",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=murtijapur",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=murtijapur&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=murtijapur&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=murtijapur&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/akola/pdfs/murtijapur",
+  "downloaded_pdfs": []
+}

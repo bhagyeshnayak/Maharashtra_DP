@@ -1,0 +1,15 @@
+{
+  "district_id": "ahilyanagr",
+  "district_name": "Ahilyanagar",
+  "taluka_id": "kopargaon",
+  "taluka_name": "KOPARGAON",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=kopargaon",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=kopargaon&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=kopargaon&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=kopargaon&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/ahilyanagr/pdfs/kopargaon",
+  "downloaded_pdfs": []
+}

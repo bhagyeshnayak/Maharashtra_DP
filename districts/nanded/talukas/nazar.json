@@ -1,0 +1,15 @@
+{
+  "district_id": "nanded",
+  "district_name": "Nanded",
+  "taluka_id": "nazar",
+  "taluka_name": "NAZAR",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=nazar",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=nazar&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=nazar&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=nazar&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/nanded/pdfs/nazar",
+  "downloaded_pdfs": []
+}

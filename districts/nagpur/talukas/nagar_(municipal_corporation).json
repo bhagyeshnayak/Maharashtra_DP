@@ -1,0 +1,15 @@
+{
+  "district_id": "nagpur",
+  "district_name": "Nagpur",
+  "taluka_id": "nagar_(municipal_corporation)",
+  "taluka_name": "Nagar (Municipal Corporation)",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=nagar_(municipal_corporation)",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=nagar_(municipal_corporation)&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=nagar_(municipal_corporation)&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=nagar_(municipal_corporation)&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/nagpur/pdfs/nagar_(municipal_corporation)",
+  "downloaded_pdfs": []
+}

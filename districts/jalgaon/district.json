@@ -1,0 +1,69 @@
+{
+  "district_id": "jalgaon",
+  "district_name": "Jalgaon",
+  "total_talukas": 15,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon",
+  "talukas": [
+    {
+      "taluka_name": "BHUSAWAL",
+      "taluka_id": "bhusawal"
+    },
+    {
+      "taluka_name": "CHALISGAON",
+      "taluka_id": "chalisgaon"
+    },
+    {
+      "taluka_name": "Bhadgaon",
+      "taluka_id": "bhadgaon"
+    },
+    {
+      "taluka_name": "CHOPDA",
+      "taluka_id": "chopda"
+    },
+    {
+      "taluka_name": "DHARANGAON",
+      "taluka_id": "dharangaon"
+    },
+    {
+      "taluka_name": "ERANDOL",
+      "taluka_id": "erandol"
+    },
+    {
+      "taluka_name": "FAIZPUR",
+      "taluka_id": "faizpur"
+    },
+    {
+      "taluka_name": "JALGAON",
+      "taluka_id": "jalgaon"
+    },
+    {
+      "taluka_name": "JAMNER",
+      "taluka_id": "jamner"
+    },
+    {
+      "taluka_name": "PACHORA",
+      "taluka_id": "pachora"
+    },
+    {
+      "taluka_name": "PAROLA",
+      "taluka_id": "parola"
+    },
+    {
+      "taluka_name": "RAVER",
+      "taluka_id": "raver"
+    },
+    {
+      "taluka_name": "SAVDA",
+      "taluka_id": "savda"
+    },
+    {
+      "taluka_name": "YAVAL",
+      "taluka_id": "yaval"
+    },
+    {
+      "taluka_name": "AMALNER",
+      "taluka_id": "amalner"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon"
+}

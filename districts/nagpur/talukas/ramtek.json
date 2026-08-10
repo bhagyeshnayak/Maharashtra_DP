@@ -1,0 +1,15 @@
+{
+  "district_id": "nagpur",
+  "district_name": "Nagpur",
+  "taluka_id": "ramtek",
+  "taluka_name": "Ramtek",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=ramtek",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=ramtek&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=ramtek&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=ramtek&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/nagpur/pdfs/ramtek",
+  "downloaded_pdfs": []
+}

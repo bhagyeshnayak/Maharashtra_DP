@@ -1,0 +1,57 @@
+{
+  "district_id": "buldhana",
+  "district_name": "Buldhana",
+  "total_talukas": 12,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana",
+  "talukas": [
+    {
+      "taluka_name": "BULDHANA",
+      "taluka_id": "buldhana"
+    },
+    {
+      "taluka_name": "CHIKHALI",
+      "taluka_id": "chikhali"
+    },
+    {
+      "taluka_name": "DEULGAON",
+      "taluka_id": "deulgaon"
+    },
+    {
+      "taluka_name": "DHAD",
+      "taluka_id": "dhad"
+    },
+    {
+      "taluka_name": "JALGAON",
+      "taluka_id": "jalgaon"
+    },
+    {
+      "taluka_name": "KHAMGAON",
+      "taluka_id": "khamgaon"
+    },
+    {
+      "taluka_name": "LONAR",
+      "taluka_id": "lonar"
+    },
+    {
+      "taluka_name": "MALKAPUR",
+      "taluka_id": "malkapur"
+    },
+    {
+      "taluka_name": "MEHKAR",
+      "taluka_id": "mehkar"
+    },
+    {
+      "taluka_name": "NANDURA",
+      "taluka_id": "nandura"
+    },
+    {
+      "taluka_name": "SHEGAON",
+      "taluka_id": "shegaon"
+    },
+    {
+      "taluka_name": "SINDKHEDA",
+      "taluka_id": "sindkheda"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana"
+}

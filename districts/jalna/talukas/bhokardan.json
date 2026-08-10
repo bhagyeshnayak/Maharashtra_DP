@@ -1,0 +1,15 @@
+{
+  "district_id": "jalna",
+  "district_name": "Jalna",
+  "taluka_id": "bhokardan",
+  "taluka_name": "BHOKARDAN",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=bhokardan",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=bhokardan&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=bhokardan&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=bhokardan&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/jalna/pdfs/bhokardan",
+  "downloaded_pdfs": []
+}

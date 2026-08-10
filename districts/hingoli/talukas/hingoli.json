@@ -1,0 +1,15 @@
+{
+  "district_id": "hingoli",
+  "district_name": "Hingoli",
+  "taluka_id": "hingoli",
+  "taluka_name": "Hingoli",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=hingoli&tal=hingoli",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=hingoli&tal=hingoli&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=hingoli&tal=hingoli&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=hingoli&tal=hingoli&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/hingoli/pdfs/hingoli",
+  "downloaded_pdfs": []
+}

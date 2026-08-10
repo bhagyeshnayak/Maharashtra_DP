@@ -1,0 +1,18 @@
+{
+  "district_id": "palghar",
+  "district_name": "Palghar",
+  "taluka_id": "javahar",
+  "taluka_name": "JAVAHAR",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=palghar&tal=javahar&languages=",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=palghar&tal=javahar&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=palghar&tal=javahar&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=palghar&tal=javahar&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/palghar/pdfs/javahar",
+  "downloaded_pdfs": [],
+  "scraped_with_playwright": true,
+  "last_scraped_at": "2026-08-10 17:39:13",
+  "pdfs_found": 0
+}

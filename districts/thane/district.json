@@ -1,0 +1,53 @@
+{
+  "district_id": "thane",
+  "district_name": "Thane",
+  "total_talukas": 11,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=thane",
+  "talukas": [
+    {
+      "taluka_name": "AMBERNATH",
+      "taluka_id": "ambernath"
+    },
+    {
+      "taluka_name": "BHIVANDI- NIJAMPUR",
+      "taluka_id": "bhivandi-_nijampur"
+    },
+    {
+      "taluka_name": "Badlapur (M Cl)",
+      "taluka_id": "badlapur_(m_cl)"
+    },
+    {
+      "taluka_name": "KALYAN & DOMBIVALI & AMBERNATH (27 VILAGE)",
+      "taluka_id": "kalyan_&_dombivali_&_ambernath_(27_vilage)"
+    },
+    {
+      "taluka_name": "KALYAN & DOMBIVALI (SEC.3,6,7)  R",
+      "taluka_id": "kalyan_&_dombivali_(sec.3,6,7)_r"
+    },
+    {
+      "taluka_name": "MIRA BHAINDAR COR",
+      "taluka_id": "mira_bhaindar_cor"
+    },
+    {
+      "taluka_name": "BHIVANDI (57 Village)",
+      "taluka_id": "bhivandi_(57_village)"
+    },
+    {
+      "taluka_name": "THANE",
+      "taluka_id": "thane"
+    },
+    {
+      "taluka_name": "MUMBAI",
+      "taluka_id": "mumbai"
+    },
+    {
+      "taluka_name": "NAVI MUMBAI",
+      "taluka_id": "navi_mumbai"
+    },
+    {
+      "taluka_name": "ULHASNAGAR",
+      "taluka_id": "ulhasnagar"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=thane"
+}

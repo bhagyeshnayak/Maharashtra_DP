@@ -1,0 +1,53 @@
+{
+  "district_id": "bhandara",
+  "district_name": "Bhandara",
+  "total_talukas": 11,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara",
+  "talukas": [
+    {
+      "taluka_name": "BHANDARA",
+      "taluka_id": "bhandara"
+    },
+    {
+      "taluka_name": "BHIWAPUR",
+      "taluka_id": "bhiwapur"
+    },
+    {
+      "taluka_name": "DONGARGARH",
+      "taluka_id": "dongargarh"
+    },
+    {
+      "taluka_name": "LAKHANDUR",
+      "taluka_id": "lakhandur"
+    },
+    {
+      "taluka_name": "SANDGHI",
+      "taluka_id": "sandghi"
+    },
+    {
+      "taluka_name": "SAWAR",
+      "taluka_id": "sawar"
+    },
+    {
+      "taluka_name": "SAWARGAON",
+      "taluka_id": "sawargaon"
+    },
+    {
+      "taluka_name": "Tumsar",
+      "taluka_id": "tumsar"
+    },
+    {
+      "taluka_name": "Pauni",
+      "taluka_id": "pauni"
+    },
+    {
+      "taluka_name": "Lakhani",
+      "taluka_id": "lakhani"
+    },
+    {
+      "taluka_name": "Sakoli",
+      "taluka_id": "sakoli"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara"
+}

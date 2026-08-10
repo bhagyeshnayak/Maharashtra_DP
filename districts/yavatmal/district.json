@@ -1,0 +1,53 @@
+{
+  "district_id": "yavatmal",
+  "district_name": "Yavatmal",
+  "total_talukas": 11,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal",
+  "talukas": [
+    {
+      "taluka_name": "ARINI",
+      "taluka_id": "arini"
+    },
+    {
+      "taluka_name": "BHAIRAVDI",
+      "taluka_id": "bhairavdi"
+    },
+    {
+      "taluka_name": "DARWHA",
+      "taluka_id": "darwha"
+    },
+    {
+      "taluka_name": "GHATANJI",
+      "taluka_id": "ghatanji"
+    },
+    {
+      "taluka_name": "KARANJI",
+      "taluka_id": "karanji"
+    },
+    {
+      "taluka_name": "MAHAGAON",
+      "taluka_id": "mahagaon"
+    },
+    {
+      "taluka_name": "NAGPUR",
+      "taluka_id": "nagpur"
+    },
+    {
+      "taluka_name": "PUSAD",
+      "taluka_id": "pusad"
+    },
+    {
+      "taluka_name": "UMARKHED",
+      "taluka_id": "umarkhed"
+    },
+    {
+      "taluka_name": "WANI",
+      "taluka_id": "wani"
+    },
+    {
+      "taluka_name": "YAVATMAL",
+      "taluka_id": "yavatmal"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal"
+}

@@ -1,0 +1,41 @@
+{
+  "district_id": "chatrapati_sambhajinagar",
+  "district_name": "Chhatrapati Sambhajinagar",
+  "total_talukas": 8,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar",
+  "talukas": [
+    {
+      "taluka_name": " Chhatrapati Sambhajinagar",
+      "taluka_id": "_chhatrapati_sambhajinagar"
+    },
+    {
+      "taluka_name": "GANGAPUR",
+      "taluka_id": "gangapur"
+    },
+    {
+      "taluka_name": "KANAD",
+      "taluka_id": "kanad"
+    },
+    {
+      "taluka_name": "PAITHAN",
+      "taluka_id": "paithan"
+    },
+    {
+      "taluka_name": "PHULAMBRI",
+      "taluka_id": "phulambri"
+    },
+    {
+      "taluka_name": "SHAMGAON",
+      "taluka_id": "shamgaon"
+    },
+    {
+      "taluka_name": "VAJIRABAD",
+      "taluka_id": "vajirabad"
+    },
+    {
+      "taluka_name": "CHAKAN",
+      "taluka_id": "chakan"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar"
+}

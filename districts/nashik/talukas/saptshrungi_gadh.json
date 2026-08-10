@@ -1,0 +1,15 @@
+{
+  "district_id": "nashik",
+  "district_name": "Nashik",
+  "taluka_id": "saptshrungi_gadh",
+  "taluka_name": "SAPTSHRUNGI GADH",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=saptshrungi_gadh",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=saptshrungi_gadh&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=saptshrungi_gadh&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=saptshrungi_gadh&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/nashik/pdfs/saptshrungi_gadh",
+  "downloaded_pdfs": []
+}

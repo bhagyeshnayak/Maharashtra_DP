@@ -1,0 +1,15 @@
+{
+  "district_id": "satara",
+  "district_name": "Satara",
+  "taluka_id": "rahimatpur",
+  "taluka_name": "RAHIMATPUR",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=rahimatpur",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=rahimatpur&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=rahimatpur&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=rahimatpur&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/satara/pdfs/rahimatpur",
+  "downloaded_pdfs": []
+}

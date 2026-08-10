@@ -1,0 +1,15 @@
+{
+  "district_id": "bhandara",
+  "district_name": "Bhandara",
+  "taluka_id": "lakhandur",
+  "taluka_name": "LAKHANDUR",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=lakhandur",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=lakhandur&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=lakhandur&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=lakhandur&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/bhandara/pdfs/lakhandur",
+  "downloaded_pdfs": []
+}

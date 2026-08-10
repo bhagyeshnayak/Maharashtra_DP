@@ -1,0 +1,15 @@
+{
+  "district_id": "parbhani",
+  "district_name": "Parbhani",
+  "taluka_id": "kalamnuri",
+  "taluka_name": "KALAMNURI",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=kalamnuri",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=kalamnuri&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=kalamnuri&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=kalamnuri&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/parbhani/pdfs/kalamnuri",
+  "downloaded_pdfs": []
+}

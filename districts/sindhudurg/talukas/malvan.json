@@ -1,0 +1,15 @@
+{
+  "district_id": "sindhudurg",
+  "district_name": "Sindhudurg",
+  "taluka_id": "malvan",
+  "taluka_name": "MALVAN",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sindhudurg&tal=malvan",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sindhudurg&tal=malvan&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sindhudurg&tal=malvan&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sindhudurg&tal=malvan&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/sindhudurg/pdfs/malvan",
+  "downloaded_pdfs": []
+}

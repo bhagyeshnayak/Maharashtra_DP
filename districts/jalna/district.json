@@ -1,0 +1,41 @@
+{
+  "district_id": "jalna",
+  "district_name": "Jalna",
+  "total_talukas": 8,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna",
+  "talukas": [
+    {
+      "taluka_name": "AMBAD",
+      "taluka_id": "ambad"
+    },
+    {
+      "taluka_name": "BADNAPUR",
+      "taluka_id": "badnapur"
+    },
+    {
+      "taluka_name": "BHOKARDAN",
+      "taluka_id": "bhokardan"
+    },
+    {
+      "taluka_name": "GHANSAWANGI",
+      "taluka_id": "ghansawangi"
+    },
+    {
+      "taluka_name": "JAFRABAD",
+      "taluka_id": "jafrabad"
+    },
+    {
+      "taluka_name": "JALNA",
+      "taluka_id": "jalna"
+    },
+    {
+      "taluka_name": "MANAD",
+      "taluka_id": "manad"
+    },
+    {
+      "taluka_name": "PARTUR",
+      "taluka_id": "partur"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna"
+}

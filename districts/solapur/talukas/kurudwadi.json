@@ -1,0 +1,15 @@
+{
+  "district_id": "solapur",
+  "district_name": "Solapur",
+  "taluka_id": "kurudwadi",
+  "taluka_name": "KURUDWADI",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=kurudwadi",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=kurudwadi&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=kurudwadi&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=kurudwadi&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/solapur/pdfs/kurudwadi",
+  "downloaded_pdfs": []
+}

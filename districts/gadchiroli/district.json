@@ -1,0 +1,45 @@
+{
+  "district_id": "gadchiroli",
+  "district_name": "Gadchiroli",
+  "total_talukas": 9,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gadchiroli",
+  "talukas": [
+    {
+      "taluka_name": "AHERI",
+      "taluka_id": "aheri"
+    },
+    {
+      "taluka_name": "BHAMARAGAD",
+      "taluka_id": "bhamaragad"
+    },
+    {
+      "taluka_name": "CHAMORSHI",
+      "taluka_id": "chamorshi"
+    },
+    {
+      "taluka_name": "DHANORA",
+      "taluka_id": "dhanora"
+    },
+    {
+      "taluka_name": "GADCHIROLI",
+      "taluka_id": "gadchiroli"
+    },
+    {
+      "taluka_name": "SIRONCHA",
+      "taluka_id": "sironcha"
+    },
+    {
+      "taluka_name": "GADCHIROLI",
+      "taluka_id": "gadchiroli"
+    },
+    {
+      "taluka_name": "Desaiganj",
+      "taluka_id": "desaiganj"
+    },
+    {
+      "taluka_name": "Armory (non-city council)",
+      "taluka_id": "armory_(non-city_council)"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gadchiroli"
+}

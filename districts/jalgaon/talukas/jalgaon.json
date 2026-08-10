@@ -1,0 +1,15 @@
+{
+  "district_id": "jalgaon",
+  "district_name": "Jalgaon",
+  "taluka_id": "jalgaon",
+  "taluka_name": "JALGAON",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=jalgaon",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=jalgaon&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=jalgaon&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=jalgaon&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/jalgaon/pdfs/jalgaon",
+  "downloaded_pdfs": []
+}

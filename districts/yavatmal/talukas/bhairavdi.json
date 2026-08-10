@@ -1,0 +1,15 @@
+{
+  "district_id": "yavatmal",
+  "district_name": "Yavatmal",
+  "taluka_id": "bhairavdi",
+  "taluka_name": "BHAIRAVDI",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=bhairavdi",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=bhairavdi&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=bhairavdi&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=bhairavdi&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/yavatmal/pdfs/bhairavdi",
+  "downloaded_pdfs": []
+}

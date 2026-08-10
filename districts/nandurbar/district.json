@@ -1,0 +1,25 @@
+{
+  "district_id": "nandurbar",
+  "district_name": "Nandurbar",
+  "total_talukas": 4,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nandurbar",
+  "talukas": [
+    {
+      "taluka_name": "NANDURBAR",
+      "taluka_id": "nandurbar"
+    },
+    {
+      "taluka_name": "NAVAPUR",
+      "taluka_id": "navapur"
+    },
+    {
+      "taluka_name": "SHAHADA",
+      "taluka_id": "shahada"
+    },
+    {
+      "taluka_name": "TALODA",
+      "taluka_id": "taloda"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nandurbar"
+}

@@ -1,0 +1,15 @@
+{
+  "district_id": "yavatmal",
+  "district_name": "Yavatmal",
+  "taluka_id": "wani",
+  "taluka_name": "WANI",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=wani",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=wani&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=wani&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=wani&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/yavatmal/pdfs/wani",
+  "downloaded_pdfs": []
+}

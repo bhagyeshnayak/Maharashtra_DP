@@ -1,0 +1,15 @@
+{
+  "district_id": "solapur",
+  "district_name": "Solapur",
+  "taluka_id": "magalvedha",
+  "taluka_name": "MAGALVEDHA",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=magalvedha",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=magalvedha&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=magalvedha&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=magalvedha&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/solapur/pdfs/magalvedha",
+  "downloaded_pdfs": []
+}

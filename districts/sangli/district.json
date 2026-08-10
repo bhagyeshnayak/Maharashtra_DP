@@ -1,0 +1,29 @@
+{
+  "district_id": "sangli",
+  "district_name": "Sangli",
+  "total_talukas": 5,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli",
+  "talukas": [
+    {
+      "taluka_name": "ASHTA",
+      "taluka_id": "ashta"
+    },
+    {
+      "taluka_name": "ISLAMPUR",
+      "taluka_id": "islampur"
+    },
+    {
+      "taluka_name": "SANGLI/MIRAJ/KUPWADA/SANGALWADI",
+      "taluka_id": "sangli/miraj/kupwada/sangalwadi"
+    },
+    {
+      "taluka_name": "TASGAON",
+      "taluka_id": "tasgaon"
+    },
+    {
+      "taluka_name": "VITA",
+      "taluka_id": "vita"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli"
+}

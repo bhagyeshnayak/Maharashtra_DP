@@ -1,0 +1,15 @@
+{
+  "district_id": "jalna",
+  "district_name": "Jalna",
+  "taluka_id": "ghansawangi",
+  "taluka_name": "GHANSAWANGI",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=ghansawangi",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=ghansawangi&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=ghansawangi&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=ghansawangi&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/jalna/pdfs/ghansawangi",
+  "downloaded_pdfs": []
+}

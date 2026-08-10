@@ -1,0 +1,21 @@
+{
+  "district_id": "dhule",
+  "district_name": "Dhule",
+  "total_talukas": 3,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dhule",
+  "talukas": [
+    {
+      "taluka_name": "Dhule",
+      "taluka_id": "dhule"
+    },
+    {
+      "taluka_name": "Dhondaicha Varved",
+      "taluka_id": "dhondaicha_varved"
+    },
+    {
+      "taluka_name": "Shirpur Varved",
+      "taluka_id": "shirpur_varved"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dhule"
+}

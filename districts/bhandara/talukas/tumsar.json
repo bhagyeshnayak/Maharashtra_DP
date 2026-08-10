@@ -1,0 +1,15 @@
+{
+  "district_id": "bhandara",
+  "district_name": "Bhandara",
+  "taluka_id": "tumsar",
+  "taluka_name": "Tumsar",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=tumsar",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=tumsar&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=tumsar&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=tumsar&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/bhandara/pdfs/tumsar",
+  "downloaded_pdfs": []
+}

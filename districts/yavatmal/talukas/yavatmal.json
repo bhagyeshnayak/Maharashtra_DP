@@ -1,0 +1,15 @@
+{
+  "district_id": "yavatmal",
+  "district_name": "Yavatmal",
+  "taluka_id": "yavatmal",
+  "taluka_name": "YAVATMAL",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=yavatmal",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=yavatmal&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=yavatmal&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=yavatmal&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/yavatmal/pdfs/yavatmal",
+  "downloaded_pdfs": []
+}

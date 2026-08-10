@@ -1,0 +1,15 @@
+{
+  "district_id": "solapur",
+  "district_name": "Solapur",
+  "taluka_id": "akaluj",
+  "taluka_name": "AKALUJ",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=akaluj",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=akaluj&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=akaluj&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=akaluj&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/solapur/pdfs/akaluj",
+  "downloaded_pdfs": []
+}

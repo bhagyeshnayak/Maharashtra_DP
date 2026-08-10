@@ -1,0 +1,15 @@
+{
+  "district_id": "nanded",
+  "district_name": "Nanded",
+  "taluka_id": "nandur",
+  "taluka_name": "NANDUR",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=nandur",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=nandur&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=nandur&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=nandur&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/nanded/pdfs/nandur",
+  "downloaded_pdfs": []
+}

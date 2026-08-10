@@ -1,0 +1,15 @@
+{
+  "district_id": "bhandara",
+  "district_name": "Bhandara",
+  "taluka_id": "bhandara",
+  "taluka_name": "BHANDARA",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=bhandara",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=bhandara&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=bhandara&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=bhandara&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/bhandara/pdfs/bhandara",
+  "downloaded_pdfs": []
+}

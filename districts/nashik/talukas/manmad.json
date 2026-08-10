@@ -1,0 +1,15 @@
+{
+  "district_id": "nashik",
+  "district_name": "Nashik",
+  "taluka_id": "manmad",
+  "taluka_name": "MANMAD",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=manmad",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=manmad&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=manmad&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=manmad&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/nashik/pdfs/manmad",
+  "downloaded_pdfs": []
+}

@@ -1,0 +1,37 @@
+{
+  "district_id": "beed",
+  "district_name": "Beed",
+  "total_talukas": 7,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=beed",
+  "talukas": [
+    {
+      "taluka_name": "ASHTI",
+      "taluka_id": "ashti"
+    },
+    {
+      "taluka_name": "BEED",
+      "taluka_id": "beed"
+    },
+    {
+      "taluka_name": "DHARUR",
+      "taluka_id": "dharur"
+    },
+    {
+      "taluka_name": "GAVRI",
+      "taluka_id": "gavri"
+    },
+    {
+      "taluka_name": "KAJ",
+      "taluka_id": "kaj"
+    },
+    {
+      "taluka_name": "MAJALGAON",
+      "taluka_id": "majalgaon"
+    },
+    {
+      "taluka_name": "WADWANI",
+      "taluka_id": "wadwani"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=beed"
+}

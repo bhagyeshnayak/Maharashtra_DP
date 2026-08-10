@@ -1,0 +1,15 @@
+{
+  "district_id": "nashik",
+  "district_name": "Nashik",
+  "taluka_id": "satpur",
+  "taluka_name": "SATPUR",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=satpur",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=satpur&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=satpur&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=satpur&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/nashik/pdfs/satpur",
+  "downloaded_pdfs": []
+}

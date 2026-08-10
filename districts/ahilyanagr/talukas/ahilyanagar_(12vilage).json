@@ -1,0 +1,15 @@
+{
+  "district_id": "ahilyanagr",
+  "district_name": "Ahilyanagar",
+  "taluka_id": "ahilyanagar_(12vilage)",
+  "taluka_name": "Ahilyanagar (12VILAGE)",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=ahilyanagar_(12vilage)",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=ahilyanagar_(12vilage)&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=ahilyanagar_(12vilage)&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=ahilyanagar_(12vilage)&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/ahilyanagr/pdfs/ahilyanagar_(12vilage)",
+  "downloaded_pdfs": []
+}

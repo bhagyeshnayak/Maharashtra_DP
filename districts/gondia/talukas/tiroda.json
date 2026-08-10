@@ -1,0 +1,15 @@
+{
+  "district_id": "gondia",
+  "district_name": "Gondia",
+  "taluka_id": "tiroda",
+  "taluka_name": "Tiroda",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gondia&tal=tiroda",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gondia&tal=tiroda&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gondia&tal=tiroda&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gondia&tal=tiroda&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/gondia/pdfs/tiroda",
+  "downloaded_pdfs": []
+}

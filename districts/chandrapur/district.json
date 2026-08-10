@@ -1,0 +1,57 @@
+{
+  "district_id": "chandrapur",
+  "district_name": "Chandrapur",
+  "total_talukas": 12,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur",
+  "talukas": [
+    {
+      "taluka_name": "BALLARPUR",
+      "taluka_id": "ballarpur"
+    },
+    {
+      "taluka_name": "BHADRAVATI",
+      "taluka_id": "bhadravati"
+    },
+    {
+      "taluka_name": "CHANDRAPUR",
+      "taluka_id": "chandrapur"
+    },
+    {
+      "taluka_name": "NAGBHIR",
+      "taluka_id": "nagbhir"
+    },
+    {
+      "taluka_name": "SAOLI",
+      "taluka_id": "saoli"
+    },
+    {
+      "taluka_name": "WANI",
+      "taluka_id": "wani"
+    },
+    {
+      "taluka_name": "Brahmapuri",
+      "taluka_id": "brahmapuri"
+    },
+    {
+      "taluka_name": "Warora",
+      "taluka_id": "warora"
+    },
+    {
+      "taluka_name": "Mul",
+      "taluka_id": "mul"
+    },
+    {
+      "taluka_name": "Rajura",
+      "taluka_id": "rajura"
+    },
+    {
+      "taluka_name": "Chandrapur (municipality)",
+      "taluka_id": "chandrapur_(municipality)"
+    },
+    {
+      "taluka_name": "Bhadravati",
+      "taluka_id": "bhadravati"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur"
+}

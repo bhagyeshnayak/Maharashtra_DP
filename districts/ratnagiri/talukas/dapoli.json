@@ -1,0 +1,15 @@
+{
+  "district_id": "ratnagiri",
+  "district_name": "Ratnagiri",
+  "taluka_id": "dapoli",
+  "taluka_name": "DAPOLI",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ratnagiri&tal=dapoli",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ratnagiri&tal=dapoli&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ratnagiri&tal=dapoli&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ratnagiri&tal=dapoli&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/ratnagiri/pdfs/dapoli",
+  "downloaded_pdfs": []
+}

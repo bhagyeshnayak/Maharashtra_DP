@@ -1,0 +1,15 @@
+{
+  "district_id": "gadchiroli",
+  "district_name": "Gadchiroli",
+  "taluka_id": "bhamaragad",
+  "taluka_name": "BHAMARAGAD",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gadchiroli&tal=bhamaragad",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gadchiroli&tal=bhamaragad&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gadchiroli&tal=bhamaragad&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gadchiroli&tal=bhamaragad&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/gadchiroli/pdfs/bhamaragad",
+  "downloaded_pdfs": []
+}

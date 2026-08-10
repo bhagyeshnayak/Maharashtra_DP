@@ -1,0 +1,21 @@
+{
+  "district_id": "gondia",
+  "district_name": "Gondia",
+  "total_talukas": 3,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gondia",
+  "talukas": [
+    {
+      "taluka_name": "GONDIA",
+      "taluka_id": "gondia"
+    },
+    {
+      "taluka_name": "Tiroda",
+      "taluka_id": "tiroda"
+    },
+    {
+      "taluka_name": "Deori (non-city council)",
+      "taluka_id": "deori_(non-city_council)"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gondia"
+}

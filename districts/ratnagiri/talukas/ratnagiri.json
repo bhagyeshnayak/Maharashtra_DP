@@ -1,0 +1,15 @@
+{
+  "district_id": "ratnagiri",
+  "district_name": "Ratnagiri",
+  "taluka_id": "ratnagiri",
+  "taluka_name": "RATNAGIRI",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ratnagiri&tal=ratnagiri",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ratnagiri&tal=ratnagiri&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ratnagiri&tal=ratnagiri&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ratnagiri&tal=ratnagiri&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/ratnagiri/pdfs/ratnagiri",
+  "downloaded_pdfs": []
+}

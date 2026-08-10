@@ -1,0 +1,15 @@
+{
+  "district_id": "nagpur",
+  "district_name": "Nagpur",
+  "taluka_id": "umred",
+  "taluka_name": "UMRED",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=umred",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=umred&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=umred&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=umred&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/nagpur/pdfs/umred",
+  "downloaded_pdfs": []
+}

@@ -1,0 +1,15 @@
+{
+  "district_id": "kolhapur",
+  "district_name": "Kolhapur",
+  "taluka_id": "kagal",
+  "taluka_name": "KAGAL",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=kagal",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=kagal&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=kagal&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=kagal&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/kolhapur/pdfs/kagal",
+  "downloaded_pdfs": []
+}

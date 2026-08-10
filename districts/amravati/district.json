@@ -1,0 +1,57 @@
+{
+  "district_id": "amravati",
+  "district_name": "Amravati",
+  "total_talukas": 12,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati",
+  "talukas": [
+    {
+      "taluka_name": "ACHALPUR",
+      "taluka_id": "achalpur"
+    },
+    {
+      "taluka_name": "AMRAVATI",
+      "taluka_id": "amravati"
+    },
+    {
+      "taluka_name": "ANJANGAON",
+      "taluka_id": "anjangaon"
+    },
+    {
+      "taluka_name": "CHANDUR",
+      "taluka_id": "chandur"
+    },
+    {
+      "taluka_name": "CHANDUR BAZAR",
+      "taluka_id": "chandur_bazar"
+    },
+    {
+      "taluka_name": "DARYAPUR",
+      "taluka_id": "daryapur"
+    },
+    {
+      "taluka_name": "MURTIJAPUR",
+      "taluka_id": "murtijapur"
+    },
+    {
+      "taluka_name": "SHENDURJANA",
+      "taluka_id": "shendurjana"
+    },
+    {
+      "taluka_name": "WARUD",
+      "taluka_id": "warud"
+    },
+    {
+      "taluka_name": "DHAMAN Railway",
+      "taluka_id": "dhaman_railway"
+    },
+    {
+      "taluka_name": "MORSHI",
+      "taluka_id": "morshi"
+    },
+    {
+      "taluka_name": "SHENDURAJANAGHAT",
+      "taluka_id": "shendurajanaghat"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati"
+}

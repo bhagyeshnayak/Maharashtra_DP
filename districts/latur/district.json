@@ -1,0 +1,29 @@
+{
+  "district_id": "latur",
+  "district_name": "Latur",
+  "total_talukas": 5,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=latur",
+  "talukas": [
+    {
+      "taluka_name": "AUSA",
+      "taluka_id": "ausa"
+    },
+    {
+      "taluka_name": "LATUR",
+      "taluka_id": "latur"
+    },
+    {
+      "taluka_name": "LATUR PLAN-A",
+      "taluka_id": "latur_plan-a"
+    },
+    {
+      "taluka_name": "LATUR PLAN-B",
+      "taluka_id": "latur_plan-b"
+    },
+    {
+      "taluka_name": "UDGIR",
+      "taluka_id": "udgir"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=latur"
+}

@@ -1,0 +1,15 @@
+{
+  "district_id": "pune",
+  "district_name": "Pune",
+  "taluka_id": "lonawala",
+  "taluka_name": "LONAWALA",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=lonawala",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=lonawala&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=lonawala&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=lonawala&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/pune/pdfs/lonawala",
+  "downloaded_pdfs": []
+}

@@ -1,0 +1,15 @@
+{
+  "district_id": "buldhana",
+  "district_name": "Buldhana",
+  "taluka_id": "mehkar",
+  "taluka_name": "MEHKAR",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=mehkar",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=mehkar&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=mehkar&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=mehkar&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/buldhana/pdfs/mehkar",
+  "downloaded_pdfs": []
+}

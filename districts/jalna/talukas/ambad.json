@@ -1,0 +1,15 @@
+{
+  "district_id": "jalna",
+  "district_name": "Jalna",
+  "taluka_id": "ambad",
+  "taluka_name": "AMBAD",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=ambad",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=ambad&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=ambad&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=ambad&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/jalna/pdfs/ambad",
+  "downloaded_pdfs": []
+}

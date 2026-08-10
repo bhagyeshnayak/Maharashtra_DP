@@ -1,0 +1,15 @@
+{
+  "district_id": "nandurbar",
+  "district_name": "Nandurbar",
+  "taluka_id": "nandurbar",
+  "taluka_name": "NANDURBAR",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nandurbar&tal=nandurbar",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nandurbar&tal=nandurbar&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nandurbar&tal=nandurbar&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nandurbar&tal=nandurbar&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/nandurbar/pdfs/nandurbar",
+  "downloaded_pdfs": []
+}

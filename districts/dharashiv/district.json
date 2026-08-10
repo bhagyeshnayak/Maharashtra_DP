@@ -1,0 +1,33 @@
+{
+  "district_id": "dharashiv",
+  "district_name": "Dharashiv",
+  "total_talukas": 6,
+  "source_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv",
+  "talukas": [
+    {
+      "taluka_name": "BHUM",
+      "taluka_id": "bhum"
+    },
+    {
+      "taluka_name": "KALANMB",
+      "taluka_id": "kalanmb"
+    },
+    {
+      "taluka_name": "MURUM",
+      "taluka_id": "murum"
+    },
+    {
+      "taluka_name": "Dharashiv",
+      "taluka_id": "dharashiv"
+    },
+    {
+      "taluka_name": "TULJAPUR",
+      "taluka_id": "tuljapur"
+    },
+    {
+      "taluka_name": "UMARGA",
+      "taluka_id": "umarga"
+    }
+  ],
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv"
+}

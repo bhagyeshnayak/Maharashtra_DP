@@ -1,0 +1,15 @@
+{
+  "district_id": "chatrapati_sambhajinagar",
+  "district_name": "Chhatrapati Sambhajinagar",
+  "taluka_id": "chakan",
+  "taluka_name": "CHAKAN",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=chakan",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=chakan&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=chakan&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=chakan&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/chatrapati_sambhajinagar/pdfs/chakan",
+  "downloaded_pdfs": []
+}

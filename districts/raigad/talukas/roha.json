@@ -1,0 +1,15 @@
+{
+  "district_id": "raigad",
+  "district_name": "Raigad",
+  "taluka_id": "roha",
+  "taluka_name": "ROHA",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=raigad&tal=roha",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=raigad&tal=roha&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=raigad&tal=roha&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=raigad&tal=roha&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/raigad/pdfs/roha",
+  "downloaded_pdfs": []
+}

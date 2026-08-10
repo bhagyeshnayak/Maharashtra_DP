@@ -1,0 +1,15 @@
+{
+  "district_id": "raigad",
+  "district_name": "Raigad",
+  "taluka_id": "uran",
+  "taluka_name": "URAN",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=raigad&tal=uran",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=raigad&tal=uran&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=raigad&tal=uran&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=raigad&tal=uran&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/raigad/pdfs/uran",
+  "downloaded_pdfs": []
+}

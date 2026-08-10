@@ -1,0 +1,15 @@
+{
+  "district_id": "jalna",
+  "district_name": "Jalna",
+  "taluka_id": "jafrabad",
+  "taluka_name": "JAFRABAD",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=jafrabad",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=jafrabad&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=jafrabad&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=jafrabad&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/jalna/pdfs/jafrabad",
+  "downloaded_pdfs": []
+}

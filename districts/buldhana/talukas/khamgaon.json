@@ -1,0 +1,15 @@
+{
+  "district_id": "buldhana",
+  "district_name": "Buldhana",
+  "taluka_id": "khamgaon",
+  "taluka_name": "KHAMGAON",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=khamgaon",
+  "dp_plans": [],
+  "query_urls": {
+    "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=khamgaon&languages=",
+    "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=khamgaon&languages=english",
+    "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=khamgaon&languages=marathi"
+  },
+  "pdf_storage_dir": "districts/buldhana/pdfs/khamgaon",
+  "downloaded_pdfs": []
+}
