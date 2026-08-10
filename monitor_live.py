@@ -27,7 +27,7 @@ def monitor():
                             try:
                                 with open(tf, "r", encoding="utf-8") as f:
                                     data = json.load(f)
-                                    if data.get("downloaded_pdfs") or data.get("last_checked_at"):
+                                    if "last_checked_at" in data or "downloaded_pdfs" in data:
                                         scraped_talukas += 1
                             except:
                                 pass
