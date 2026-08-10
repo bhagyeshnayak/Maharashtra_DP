@@ -3,13 +3,10 @@
   "district_name": "Nanded",
   "taluka_id": "ghamatika",
   "taluka_name": "GHAMATIKA",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=ghamatika",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=ghamatika&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=ghamatika&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=ghamatika&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/nanded/pdfs/ghamatika",
-  "downloaded_pdfs": []
+  }
 }

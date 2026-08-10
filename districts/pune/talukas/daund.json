@@ -3,13 +3,10 @@
   "district_name": "Pune",
   "taluka_id": "daund",
   "taluka_name": "DAUND",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=daund",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=daund&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=daund&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=daund&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/pune/pdfs/daund",
-  "downloaded_pdfs": []
+  }
 }

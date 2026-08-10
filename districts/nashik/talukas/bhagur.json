@@ -3,13 +3,10 @@
   "district_name": "Nashik",
   "taluka_id": "bhagur",
   "taluka_name": "BHAGUR",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=bhagur",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=bhagur&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=bhagur&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=bhagur&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/nashik/pdfs/bhagur",
-  "downloaded_pdfs": []
+  }
 }

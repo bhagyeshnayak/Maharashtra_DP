@@ -3,13 +3,10 @@
   "district_name": "Chhatrapati Sambhajinagar",
   "taluka_id": "gangapur",
   "taluka_name": "GANGAPUR",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=gangapur",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=gangapur&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=gangapur&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=gangapur&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/chatrapati_sambhajinagar/pdfs/gangapur",
-  "downloaded_pdfs": []
+  }
 }

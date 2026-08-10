@@ -3,13 +3,12 @@
   "district_name": "Sangli",
   "taluka_id": "tasgaon",
   "taluka_name": "TASGAON",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=tasgaon",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=tasgaon&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=tasgaon&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=tasgaon&languages=marathi"
   },
-  "pdf_storage_dir": "districts/sangli/pdfs/tasgaon",
-  "downloaded_pdfs": []
+  "scraped_with_playwright": true,
+  "last_scraped_at": "2026-08-10 18:26:19"
 }

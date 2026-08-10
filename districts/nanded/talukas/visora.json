@@ -3,13 +3,10 @@
   "district_name": "Nanded",
   "taluka_id": "visora",
   "taluka_name": "VISORA",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=visora",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=visora&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=visora&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nanded&tal=visora&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/nanded/pdfs/visora",
-  "downloaded_pdfs": []
+  }
 }

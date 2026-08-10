@@ -3,13 +3,10 @@
   "district_name": "Nagpur",
   "taluka_id": "khapa",
   "taluka_name": "Khapa",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=khapa",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=khapa&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=khapa&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=khapa&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/nagpur/pdfs/khapa",
-  "downloaded_pdfs": []
+  }
 }

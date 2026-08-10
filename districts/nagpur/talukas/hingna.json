@@ -3,13 +3,10 @@
   "district_name": "Nagpur",
   "taluka_id": "hingna",
   "taluka_name": "HINGNA",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=hingna",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=hingna&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=hingna&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=hingna&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/nagpur/pdfs/hingna",
-  "downloaded_pdfs": []
+  }
 }

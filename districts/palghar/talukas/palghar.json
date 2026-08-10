@@ -3,16 +3,12 @@
   "district_name": "Palghar",
   "taluka_id": "palghar",
   "taluka_name": "PALGHAR",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=palghar&tal=palghar&languages=",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=palghar&tal=palghar&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=palghar&tal=palghar&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=palghar&tal=palghar&languages=marathi"
   },
-  "pdf_storage_dir": "districts/palghar/pdfs/palghar",
-  "downloaded_pdfs": [],
   "scraped_with_playwright": true,
-  "last_scraped_at": "2026-08-10 17:40:15",
-  "pdfs_found": 0
+  "last_scraped_at": "2026-08-10 17:40:15"
 }

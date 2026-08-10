@@ -3,13 +3,10 @@
   "district_name": "Nashik",
   "taluka_id": "satana",
   "taluka_name": "SATANA",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=satana",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=satana&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=satana&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=satana&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/nashik/pdfs/satana",
-  "downloaded_pdfs": []
+  }
 }

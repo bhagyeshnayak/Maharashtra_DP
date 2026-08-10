@@ -3,13 +3,10 @@
   "district_name": "Chandrapur",
   "taluka_id": "ballarpur",
   "taluka_name": "BALLARPUR",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=ballarpur",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=ballarpur&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=ballarpur&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=ballarpur&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/chandrapur/pdfs/ballarpur",
-  "downloaded_pdfs": []
+  }
 }

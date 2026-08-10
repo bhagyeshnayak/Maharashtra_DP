@@ -3,16 +3,12 @@
   "district_name": "Sindhudurg",
   "taluka_id": "sawantwadi",
   "taluka_name": "SAWANTWADI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sindhudurg&tal=sawantwadi&languages=",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sindhudurg&tal=sawantwadi&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sindhudurg&tal=sawantwadi&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sindhudurg&tal=sawantwadi&languages=marathi"
   },
-  "pdf_storage_dir": "districts/sindhudurg/pdfs/sawantwadi",
-  "downloaded_pdfs": [],
   "scraped_with_playwright": true,
-  "last_scraped_at": "2026-08-10 18:12:18",
-  "pdfs_found": 0
+  "last_scraped_at": "2026-08-10 18:12:18"
 }

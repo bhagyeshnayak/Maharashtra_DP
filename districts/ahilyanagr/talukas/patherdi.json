@@ -3,13 +3,10 @@
   "district_name": "Ahilyanagar",
   "taluka_id": "patherdi",
   "taluka_name": "PATHERDI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=patherdi",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=patherdi&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=patherdi&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=patherdi&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/ahilyanagr/pdfs/patherdi",
-  "downloaded_pdfs": []
+  }
 }

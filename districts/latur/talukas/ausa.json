@@ -3,13 +3,10 @@
   "district_name": "Latur",
   "taluka_id": "ausa",
   "taluka_name": "AUSA",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=latur&tal=ausa",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=latur&tal=ausa&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=latur&tal=ausa&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=latur&tal=ausa&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/latur/pdfs/ausa",
-  "downloaded_pdfs": []
+  }
 }

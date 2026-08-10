@@ -3,13 +3,10 @@
   "district_name": "Bhandara",
   "taluka_id": "sawargaon",
   "taluka_name": "SAWARGAON",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=sawargaon",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=sawargaon&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=sawargaon&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=sawargaon&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/bhandara/pdfs/sawargaon",
-  "downloaded_pdfs": []
+  }
 }

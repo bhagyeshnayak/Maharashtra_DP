@@ -3,13 +3,10 @@
   "district_name": "Buldhana",
   "taluka_id": "nandura",
   "taluka_name": "NANDURA",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=nandura",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=nandura&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=nandura&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=nandura&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/buldhana/pdfs/nandura",
-  "downloaded_pdfs": []
+  }
 }

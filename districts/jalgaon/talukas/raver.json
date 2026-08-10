@@ -3,13 +3,10 @@
   "district_name": "Jalgaon",
   "taluka_id": "raver",
   "taluka_name": "RAVER",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=raver",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=raver&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=raver&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=raver&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/jalgaon/pdfs/raver",
-  "downloaded_pdfs": []
+  }
 }

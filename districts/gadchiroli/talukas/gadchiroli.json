@@ -3,13 +3,10 @@
   "district_name": "Gadchiroli",
   "taluka_id": "gadchiroli",
   "taluka_name": "GADCHIROLI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gadchiroli&tal=gadchiroli",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gadchiroli&tal=gadchiroli&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gadchiroli&tal=gadchiroli&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gadchiroli&tal=gadchiroli&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/gadchiroli/pdfs/gadchiroli",
-  "downloaded_pdfs": []
+  }
 }

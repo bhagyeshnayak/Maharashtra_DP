@@ -3,13 +3,12 @@
   "district_name": "Satara",
   "taluka_id": "karad",
   "taluka_name": "KARAD",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=karad",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=karad&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=karad&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=karad&languages=marathi"
   },
-  "pdf_storage_dir": "districts/satara/pdfs/karad",
-  "downloaded_pdfs": []
+  "scraped_with_playwright": true,
+  "last_scraped_at": "2026-08-10 18:28:19"
 }

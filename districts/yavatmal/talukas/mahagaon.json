@@ -3,13 +3,10 @@
   "district_name": "Yavatmal",
   "taluka_id": "mahagaon",
   "taluka_name": "MAHAGAON",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=mahagaon",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=mahagaon&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=mahagaon&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=mahagaon&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/yavatmal/pdfs/mahagaon",
-  "downloaded_pdfs": []
+  }
 }

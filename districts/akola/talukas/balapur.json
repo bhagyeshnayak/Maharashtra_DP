@@ -3,13 +3,10 @@
   "district_name": "Akola",
   "taluka_id": "balapur",
   "taluka_name": "BALAPUR",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=balapur",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=balapur&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=balapur&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=balapur&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/akola/pdfs/balapur",
-  "downloaded_pdfs": []
+  }
 }

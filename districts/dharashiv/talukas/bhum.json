@@ -3,13 +3,10 @@
   "district_name": "Dharashiv",
   "taluka_id": "bhum",
   "taluka_name": "BHUM",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=bhum",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=bhum&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=bhum&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=bhum&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/dharashiv/pdfs/bhum",
-  "downloaded_pdfs": []
+  }
 }

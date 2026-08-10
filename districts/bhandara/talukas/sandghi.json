@@ -3,13 +3,10 @@
   "district_name": "Bhandara",
   "taluka_id": "sandghi",
   "taluka_name": "SANDGHI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=sandghi",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=sandghi&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=sandghi&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=sandghi&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/bhandara/pdfs/sandghi",
-  "downloaded_pdfs": []
+  }
 }

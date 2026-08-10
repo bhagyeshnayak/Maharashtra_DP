@@ -3,13 +3,10 @@
   "district_name": "Chhatrapati Sambhajinagar",
   "taluka_id": "phulambri",
   "taluka_name": "PHULAMBRI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=phulambri",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=phulambri&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=phulambri&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=phulambri&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/chatrapati_sambhajinagar/pdfs/phulambri",
-  "downloaded_pdfs": []
+  }
 }

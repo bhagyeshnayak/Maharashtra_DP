@@ -3,13 +3,10 @@
   "district_name": "Gondia",
   "taluka_id": "gondia",
   "taluka_name": "GONDIA",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gondia&tal=gondia",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gondia&tal=gondia&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gondia&tal=gondia&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gondia&tal=gondia&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/gondia/pdfs/gondia",
-  "downloaded_pdfs": []
+  }
 }

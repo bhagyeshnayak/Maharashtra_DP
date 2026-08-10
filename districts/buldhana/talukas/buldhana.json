@@ -3,13 +3,10 @@
   "district_name": "Buldhana",
   "taluka_id": "buldhana",
   "taluka_name": "BULDHANA",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=buldhana",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=buldhana&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=buldhana&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=buldhana&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/buldhana/pdfs/buldhana",
-  "downloaded_pdfs": []
+  }
 }

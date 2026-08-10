@@ -3,13 +3,12 @@
   "district_name": "Sangli",
   "taluka_id": "sangli/miraj/kupwada/sangalwadi",
   "taluka_name": "SANGLI/MIRAJ/KUPWADA/SANGALWADI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=sangli/miraj/kupwada/sangalwadi",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=sangli/miraj/kupwada/sangalwadi&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=sangli/miraj/kupwada/sangalwadi&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=sangli/miraj/kupwada/sangalwadi&languages=marathi"
   },
-  "pdf_storage_dir": "districts/sangli/pdfs/sangli_miraj_kupwada_sangalwadi",
-  "downloaded_pdfs": []
+  "scraped_with_playwright": true,
+  "last_scraped_at": "2026-08-10 18:25:19"
 }

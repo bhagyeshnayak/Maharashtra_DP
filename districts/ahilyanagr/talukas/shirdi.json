@@ -3,13 +3,10 @@
   "district_name": "Ahilyanagar",
   "taluka_id": "shirdi",
   "taluka_name": "SHIRDI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=shirdi",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=shirdi&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=shirdi&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=shirdi&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/ahilyanagr/pdfs/shirdi",
-  "downloaded_pdfs": []
+  }
 }

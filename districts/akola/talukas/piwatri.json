@@ -3,13 +3,10 @@
   "district_name": "Akola",
   "taluka_id": "piwatri",
   "taluka_name": "PIWATRI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=piwatri",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=piwatri&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=piwatri&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=akola&tal=piwatri&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/akola/pdfs/piwatri",
-  "downloaded_pdfs": []
+  }
 }

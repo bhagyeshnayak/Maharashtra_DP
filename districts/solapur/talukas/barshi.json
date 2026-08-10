@@ -3,13 +3,10 @@
   "district_name": "Solapur",
   "taluka_id": "barshi",
   "taluka_name": "BARSHI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=barshi",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=barshi&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=barshi&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=barshi&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/solapur/pdfs/barshi",
-  "downloaded_pdfs": []
+  }
 }

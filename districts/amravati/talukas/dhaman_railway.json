@@ -3,13 +3,10 @@
   "district_name": "Amravati",
   "taluka_id": "dhaman_railway",
   "taluka_name": "DHAMAN Railway",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=dhaman_railway",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=dhaman_railway&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=dhaman_railway&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=dhaman_railway&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/amravati/pdfs/dhaman_railway",
-  "downloaded_pdfs": []
+  }
 }

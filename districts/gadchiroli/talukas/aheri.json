@@ -3,13 +3,10 @@
   "district_name": "Gadchiroli",
   "taluka_id": "aheri",
   "taluka_name": "AHERI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gadchiroli&tal=aheri",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gadchiroli&tal=aheri&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gadchiroli&tal=aheri&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gadchiroli&tal=aheri&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/gadchiroli/pdfs/aheri",
-  "downloaded_pdfs": []
+  }
 }

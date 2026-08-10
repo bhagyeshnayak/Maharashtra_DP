@@ -3,13 +3,10 @@
   "district_name": "Latur",
   "taluka_id": "latur",
   "taluka_name": "LATUR",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=latur&tal=latur",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=latur&tal=latur&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=latur&tal=latur&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=latur&tal=latur&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/latur/pdfs/latur",
-  "downloaded_pdfs": []
+  }
 }

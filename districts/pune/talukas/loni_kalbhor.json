@@ -3,13 +3,10 @@
   "district_name": "Pune",
   "taluka_id": "loni_kalbhor",
   "taluka_name": "LONI KALBHOR",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=loni_kalbhor",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=loni_kalbhor&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=loni_kalbhor&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=loni_kalbhor&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/pune/pdfs/loni_kalbhor",
-  "downloaded_pdfs": []
+  }
 }

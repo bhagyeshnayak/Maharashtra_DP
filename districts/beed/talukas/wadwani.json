@@ -3,13 +3,10 @@
   "district_name": "Beed",
   "taluka_id": "wadwani",
   "taluka_name": "WADWANI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=beed&tal=wadwani",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=beed&tal=wadwani&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=beed&tal=wadwani&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=beed&tal=wadwani&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/beed/pdfs/wadwani",
-  "downloaded_pdfs": []
+  }
 }

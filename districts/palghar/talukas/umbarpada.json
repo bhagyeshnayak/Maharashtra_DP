@@ -3,16 +3,12 @@
   "district_name": "Palghar",
   "taluka_id": "umbarpada",
   "taluka_name": "UMbarpada",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=palghar&tal=umbarpada&languages=",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=palghar&tal=umbarpada&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=palghar&tal=umbarpada&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=palghar&tal=umbarpada&languages=marathi"
   },
-  "pdf_storage_dir": "districts/palghar/pdfs/umbarpada",
-  "downloaded_pdfs": [],
   "scraped_with_playwright": true,
-  "last_scraped_at": "2026-08-10 17:42:15",
-  "pdfs_found": 0
+  "last_scraped_at": "2026-08-10 17:42:15"
 }

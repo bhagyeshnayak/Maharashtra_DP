@@ -3,13 +3,10 @@
   "district_name": "Wardha",
   "taluka_id": "wardha",
   "taluka_name": "WARDHA",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=wardha&tal=wardha",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=wardha&tal=wardha&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=wardha&tal=wardha&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=wardha&tal=wardha&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/wardha/pdfs/wardha",
-  "downloaded_pdfs": []
+  }
 }

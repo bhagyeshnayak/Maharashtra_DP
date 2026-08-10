@@ -3,13 +3,10 @@
   "district_name": "Ahilyanagar",
   "taluka_id": "shrirampur",
   "taluka_name": "SHRIRAMPUR",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=shrirampur",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=shrirampur&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=shrirampur&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=shrirampur&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/ahilyanagr/pdfs/shrirampur",
-  "downloaded_pdfs": []
+  }
 }

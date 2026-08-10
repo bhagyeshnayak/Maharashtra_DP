@@ -3,13 +3,10 @@
   "district_name": "Chandrapur",
   "taluka_id": "nagbhir",
   "taluka_name": "NAGBHIR",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=nagbhir",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=nagbhir&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=nagbhir&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=nagbhir&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/chandrapur/pdfs/nagbhir",
-  "downloaded_pdfs": []
+  }
 }

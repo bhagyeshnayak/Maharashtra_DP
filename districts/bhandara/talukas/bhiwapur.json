@@ -3,13 +3,10 @@
   "district_name": "Bhandara",
   "taluka_id": "bhiwapur",
   "taluka_name": "BHIWAPUR",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=bhiwapur",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=bhiwapur&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=bhiwapur&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=bhiwapur&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/bhandara/pdfs/bhiwapur",
-  "downloaded_pdfs": []
+  }
 }

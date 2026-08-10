@@ -3,13 +3,10 @@
   "district_name": "Satara",
   "taluka_id": "mhaswad",
   "taluka_name": "MHASWAD",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=mhaswad",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=mhaswad&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=mhaswad&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=mhaswad&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/satara/pdfs/mhaswad",
-  "downloaded_pdfs": []
+  }
 }

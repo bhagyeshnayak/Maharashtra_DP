@@ -3,13 +3,10 @@
   "district_name": "Bhandara",
   "taluka_id": "sawar",
   "taluka_name": "SAWAR",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=sawar",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=sawar&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=sawar&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=bhandara&tal=sawar&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/bhandara/pdfs/sawar",
-  "downloaded_pdfs": []
+  }
 }

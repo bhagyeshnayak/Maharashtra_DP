@@ -3,13 +3,10 @@
   "district_name": "Pune",
   "taluka_id": "talegaon",
   "taluka_name": "TALEGAON",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=talegaon",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=talegaon&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=talegaon&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=talegaon&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/pune/pdfs/talegaon",
-  "downloaded_pdfs": []
+  }
 }

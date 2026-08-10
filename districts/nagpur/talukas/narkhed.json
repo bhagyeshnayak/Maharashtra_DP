@@ -3,13 +3,10 @@
   "district_name": "Nagpur",
   "taluka_id": "narkhed",
   "taluka_name": "Narkhed",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=narkhed",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=narkhed&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=narkhed&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=narkhed&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/nagpur/pdfs/narkhed",
-  "downloaded_pdfs": []
+  }
 }

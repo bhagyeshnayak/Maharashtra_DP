@@ -3,13 +3,10 @@
   "district_name": "Amravati",
   "taluka_id": "amravati",
   "taluka_name": "AMRAVATI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=amravati",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=amravati&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=amravati&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=amravati&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/amravati/pdfs/amravati",
-  "downloaded_pdfs": []
+  }
 }

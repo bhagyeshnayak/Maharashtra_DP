@@ -3,13 +3,12 @@
   "district_name": "Kolhapur",
   "taluka_id": "kolhapur",
   "taluka_name": "Kolhapur",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=kolhapur",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=kolhapur&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=kolhapur&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=kolhapur&languages=marathi"
   },
-  "pdf_storage_dir": "districts/kolhapur/pdfs/kolhapur",
-  "downloaded_pdfs": []
+  "scraped_with_playwright": true,
+  "last_scraped_at": "2026-08-10 18:17:18"
 }

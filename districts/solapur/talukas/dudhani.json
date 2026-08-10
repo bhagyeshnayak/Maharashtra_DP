@@ -3,13 +3,10 @@
   "district_name": "Solapur",
   "taluka_id": "dudhani",
   "taluka_name": "DUDHANI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=dudhani",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=dudhani&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=dudhani&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=dudhani&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/solapur/pdfs/dudhani",
-  "downloaded_pdfs": []
+  }
 }

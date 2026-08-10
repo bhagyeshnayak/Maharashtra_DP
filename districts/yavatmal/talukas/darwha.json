@@ -3,13 +3,10 @@
   "district_name": "Yavatmal",
   "taluka_id": "darwha",
   "taluka_name": "DARWHA",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=darwha",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=darwha&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=darwha&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=darwha&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/yavatmal/pdfs/darwha",
-  "downloaded_pdfs": []
+  }
 }

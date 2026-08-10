@@ -3,13 +3,10 @@
   "district_name": "Chandrapur",
   "taluka_id": "saoli",
   "taluka_name": "SAOLI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=saoli",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=saoli&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=saoli&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chandrapur&tal=saoli&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/chandrapur/pdfs/saoli",
-  "downloaded_pdfs": []
+  }
 }

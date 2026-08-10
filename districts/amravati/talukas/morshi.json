@@ -3,13 +3,10 @@
   "district_name": "Amravati",
   "taluka_id": "morshi",
   "taluka_name": "MORSHI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=morshi",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=morshi&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=morshi&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=morshi&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/amravati/pdfs/morshi",
-  "downloaded_pdfs": []
+  }
 }

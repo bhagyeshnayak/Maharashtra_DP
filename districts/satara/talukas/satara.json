@@ -3,13 +3,10 @@
   "district_name": "Satara",
   "taluka_id": "satara",
   "taluka_name": "SATARA",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=satara",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=satara&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=satara&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=satara&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/satara/pdfs/satara",
-  "downloaded_pdfs": []
+  }
 }

@@ -3,13 +3,10 @@
   "district_name": "Solapur",
   "taluka_id": "sangola",
   "taluka_name": "SANGOLA",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=sangola",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=sangola&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=sangola&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=sangola&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/solapur/pdfs/sangola",
-  "downloaded_pdfs": []
+  }
 }

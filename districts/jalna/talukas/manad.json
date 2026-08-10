@@ -3,13 +3,10 @@
   "district_name": "Jalna",
   "taluka_id": "manad",
   "taluka_name": "MANAD",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=manad",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=manad&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=manad&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=manad&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/jalna/pdfs/manad",
-  "downloaded_pdfs": []
+  }
 }

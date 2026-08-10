@@ -3,13 +3,10 @@
   "district_name": "Solapur",
   "taluka_id": "solapur__jule",
   "taluka_name": "SOLAPUR _JULE",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=solapur__jule",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=solapur__jule&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=solapur__jule&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=solapur&tal=solapur__jule&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/solapur/pdfs/solapur__jule",
-  "downloaded_pdfs": []
+  }
 }

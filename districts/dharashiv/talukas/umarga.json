@@ -3,13 +3,10 @@
   "district_name": "Dharashiv",
   "taluka_id": "umarga",
   "taluka_name": "UMARGA",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=umarga",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=umarga&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=umarga&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=umarga&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/dharashiv/pdfs/umarga",
-  "downloaded_pdfs": []
+  }
 }

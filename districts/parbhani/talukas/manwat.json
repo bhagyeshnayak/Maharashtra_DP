@@ -3,13 +3,10 @@
   "district_name": "Parbhani",
   "taluka_id": "manwat",
   "taluka_name": "MANWAT",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=manwat",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=manwat&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=manwat&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=manwat&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/parbhani/pdfs/manwat",
-  "downloaded_pdfs": []
+  }
 }

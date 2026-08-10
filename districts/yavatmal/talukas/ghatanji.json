@@ -3,13 +3,10 @@
   "district_name": "Yavatmal",
   "taluka_id": "ghatanji",
   "taluka_name": "GHATANJI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=ghatanji",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=ghatanji&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=ghatanji&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=yavatmal&tal=ghatanji&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/yavatmal/pdfs/ghatanji",
-  "downloaded_pdfs": []
+  }
 }

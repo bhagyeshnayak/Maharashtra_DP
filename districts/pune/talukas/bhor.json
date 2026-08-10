@@ -3,13 +3,10 @@
   "district_name": "Pune",
   "taluka_id": "bhor",
   "taluka_name": "BHOR",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=bhor",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=bhor&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=bhor&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=bhor&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/pune/pdfs/bhor",
-  "downloaded_pdfs": []
+  }
 }

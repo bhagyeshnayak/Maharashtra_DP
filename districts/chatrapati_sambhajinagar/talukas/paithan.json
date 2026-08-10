@@ -3,13 +3,10 @@
   "district_name": "Chhatrapati Sambhajinagar",
   "taluka_id": "paithan",
   "taluka_name": "PAITHAN",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=paithan",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=paithan&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=paithan&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=paithan&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/chatrapati_sambhajinagar/pdfs/paithan",
-  "downloaded_pdfs": []
+  }
 }

@@ -3,13 +3,10 @@
   "district_name": "Nagpur",
   "taluka_id": "kalameshwar",
   "taluka_name": "Kalameshwar",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=kalameshwar",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=kalameshwar&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=kalameshwar&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=kalameshwar&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/nagpur/pdfs/kalameshwar",
-  "downloaded_pdfs": []
+  }
 }

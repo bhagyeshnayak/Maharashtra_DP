@@ -3,13 +3,10 @@
   "district_name": "Dharashiv",
   "taluka_id": "kalanmb",
   "taluka_name": "KALANMB",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=kalanmb",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=kalanmb&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=kalanmb&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=dharashiv&tal=kalanmb&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/dharashiv/pdfs/kalanmb",
-  "downloaded_pdfs": []
+  }
 }

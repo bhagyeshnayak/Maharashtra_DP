@@ -3,13 +3,10 @@
   "district_name": "Washim",
   "taluka_id": "mangrulpir",
   "taluka_name": "Mangrulpir",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=washim&tal=mangrulpir",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=washim&tal=mangrulpir&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=washim&tal=mangrulpir&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=washim&tal=mangrulpir&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/washim/pdfs/mangrulpir",
-  "downloaded_pdfs": []
+  }
 }

@@ -3,13 +3,10 @@
   "district_name": "Jalgaon",
   "taluka_id": "chopda",
   "taluka_name": "CHOPDA",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=chopda",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=chopda&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=chopda&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalgaon&tal=chopda&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/jalgaon/pdfs/chopda",
-  "downloaded_pdfs": []
+  }
 }

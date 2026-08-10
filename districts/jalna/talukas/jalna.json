@@ -3,13 +3,10 @@
   "district_name": "Jalna",
   "taluka_id": "jalna",
   "taluka_name": "JALNA",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=jalna",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=jalna&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=jalna&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=jalna&tal=jalna&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/jalna/pdfs/jalna",
-  "downloaded_pdfs": []
+  }
 }

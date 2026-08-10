@@ -3,13 +3,10 @@
   "district_name": "Beed",
   "taluka_id": "ashti",
   "taluka_name": "ASHTI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=beed&tal=ashti",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=beed&tal=ashti&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=beed&tal=ashti&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=beed&tal=ashti&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/beed/pdfs/ashti",
-  "downloaded_pdfs": []
+  }
 }

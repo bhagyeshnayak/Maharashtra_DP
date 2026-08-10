@@ -3,13 +3,10 @@
   "district_name": "Satara",
   "taluka_id": "phaltan",
   "taluka_name": "PHALTAN",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=phaltan",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=phaltan&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=phaltan&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=satara&tal=phaltan&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/satara/pdfs/phaltan",
-  "downloaded_pdfs": []
+  }
 }

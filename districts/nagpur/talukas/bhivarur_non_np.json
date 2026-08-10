@@ -3,13 +3,10 @@
   "district_name": "Nagpur",
   "taluka_id": "bhivarur_non_np",
   "taluka_name": "Bhivarur Non NP",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=bhivarur_non_np",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=bhivarur_non_np&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=bhivarur_non_np&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=bhivarur_non_np&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/nagpur/pdfs/bhivarur_non_np",
-  "downloaded_pdfs": []
+  }
 }

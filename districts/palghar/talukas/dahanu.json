@@ -3,16 +3,12 @@
   "district_name": "Palghar",
   "taluka_id": "dahanu",
   "taluka_name": "DAHANU",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=palghar&tal=dahanu&languages=",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=palghar&tal=dahanu&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=palghar&tal=dahanu&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=palghar&tal=dahanu&languages=marathi"
   },
-  "pdf_storage_dir": "districts/palghar/pdfs/dahanu",
-  "downloaded_pdfs": [],
   "scraped_with_playwright": true,
-  "last_scraped_at": "2026-08-10 17:38:13",
-  "pdfs_found": 0
+  "last_scraped_at": "2026-08-10 17:38:13"
 }

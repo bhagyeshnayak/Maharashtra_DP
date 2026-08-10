@@ -3,13 +3,10 @@
   "district_name": "Chhatrapati Sambhajinagar",
   "taluka_id": "_chhatrapati_sambhajinagar",
   "taluka_name": " Chhatrapati Sambhajinagar",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=_chhatrapati_sambhajinagar",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=_chhatrapati_sambhajinagar&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=_chhatrapati_sambhajinagar&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=chatrapati_sambhajinagar&tal=_chhatrapati_sambhajinagar&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/chatrapati_sambhajinagar/pdfs/_chhatrapati_sambhajinagar",
-  "downloaded_pdfs": []
+  }
 }

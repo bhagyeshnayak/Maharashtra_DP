@@ -3,13 +3,10 @@
   "district_name": "Amravati",
   "taluka_id": "achalpur",
   "taluka_name": "ACHALPUR",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=achalpur",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=achalpur&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=achalpur&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=amravati&tal=achalpur&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/amravati/pdfs/achalpur",
-  "downloaded_pdfs": []
+  }
 }

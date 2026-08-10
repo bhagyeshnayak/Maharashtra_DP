@@ -3,13 +3,10 @@
   "district_name": "Gondia",
   "taluka_id": "deori_(non-city_council)",
   "taluka_name": "Deori (non-city council)",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gondia&tal=deori_(non-city_council)",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gondia&tal=deori_(non-city_council)&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gondia&tal=deori_(non-city_council)&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=gondia&tal=deori_(non-city_council)&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/gondia/pdfs/deori_(non-city_council)",
-  "downloaded_pdfs": []
+  }
 }

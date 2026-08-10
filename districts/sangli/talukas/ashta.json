@@ -3,13 +3,12 @@
   "district_name": "Sangli",
   "taluka_id": "ashta",
   "taluka_name": "ASHTA",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=ashta",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=ashta&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=ashta&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sangli&tal=ashta&languages=marathi"
   },
-  "pdf_storage_dir": "districts/sangli/pdfs/ashta",
-  "downloaded_pdfs": []
+  "scraped_with_playwright": true,
+  "last_scraped_at": "2026-08-10 18:23:18"
 }

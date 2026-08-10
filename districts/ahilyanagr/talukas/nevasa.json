@@ -3,13 +3,10 @@
   "district_name": "Ahilyanagar",
   "taluka_id": "nevasa",
   "taluka_name": "NEVASA",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=nevasa",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=nevasa&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=nevasa&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ahilyanagr&tal=nevasa&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/ahilyanagr/pdfs/nevasa",
-  "downloaded_pdfs": []
+  }
 }

@@ -3,13 +3,10 @@
   "district_name": "Parbhani",
   "taluka_id": "parabhani",
   "taluka_name": "PARABHANI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=parabhani",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=parabhani&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=parabhani&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=parbhani&tal=parabhani&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/parbhani/pdfs/parabhani",
-  "downloaded_pdfs": []
+  }
 }

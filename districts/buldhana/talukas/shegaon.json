@@ -3,13 +3,10 @@
   "district_name": "Buldhana",
   "taluka_id": "shegaon",
   "taluka_name": "SHEGAON",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=shegaon",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=shegaon&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=shegaon&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=buldhana&tal=shegaon&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/buldhana/pdfs/shegaon",
-  "downloaded_pdfs": []
+  }
 }

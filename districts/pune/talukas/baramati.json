@@ -3,13 +3,10 @@
   "district_name": "Pune",
   "taluka_id": "baramati",
   "taluka_name": "BARAMATI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=baramati",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=baramati&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=baramati&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=pune&tal=baramati&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/pune/pdfs/baramati",
-  "downloaded_pdfs": []
+  }
 }

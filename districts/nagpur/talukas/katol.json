@@ -3,13 +3,10 @@
   "district_name": "Nagpur",
   "taluka_id": "katol",
   "taluka_name": "KATOL",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=katol",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=katol&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=katol&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nagpur&tal=katol&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/nagpur/pdfs/katol",
-  "downloaded_pdfs": []
+  }
 }

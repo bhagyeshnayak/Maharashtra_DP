@@ -3,13 +3,10 @@
   "district_name": "Nashik",
   "taluka_id": "trimbak",
   "taluka_name": "TRIMBAK",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=trimbak",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=trimbak&languages=",
     "english": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=trimbak&languages=english",
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=nashik&tal=trimbak&languages=marathi"
-  },
-  "pdf_storage_dir": "districts/nashik/pdfs/trimbak",
-  "downloaded_pdfs": []
+  }
 }
