@@ -3,7 +3,7 @@
   "district_name": "Sindhudurg",
   "taluka_id": "kankavli",
   "taluka_name": "KANKAVLI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sindhudurg&tal=kankavli",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sindhudurg&tal=kankavli&languages=",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sindhudurg&tal=kankavli&languages=",
@@ -11,5 +11,8 @@
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=sindhudurg&tal=kankavli&languages=marathi"
   },
   "pdf_storage_dir": "districts/sindhudurg/pdfs/kankavli",
-  "downloaded_pdfs": []
+  "downloaded_pdfs": [],
+  "scraped_with_playwright": true,
+  "last_scraped_at": "2026-08-10 18:10:18",
+  "pdfs_found": 0
 }

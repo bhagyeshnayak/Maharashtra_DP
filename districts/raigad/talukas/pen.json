@@ -3,7 +3,7 @@
   "district_name": "Raigad",
   "taluka_id": "pen",
   "taluka_name": "PEN",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=raigad&tal=pen",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=raigad&tal=pen&languages=",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=raigad&tal=pen&languages=",
@@ -11,5 +11,8 @@
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=raigad&tal=pen&languages=marathi"
   },
   "pdf_storage_dir": "districts/raigad/pdfs/pen",
-  "downloaded_pdfs": []
+  "downloaded_pdfs": [],
+  "scraped_with_playwright": true,
+  "last_scraped_at": "2026-08-10 18:01:18",
+  "pdfs_found": 0
 }

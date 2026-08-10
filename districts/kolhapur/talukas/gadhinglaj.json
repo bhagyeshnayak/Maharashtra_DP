@@ -3,7 +3,7 @@
   "district_name": "Kolhapur",
   "taluka_id": "gadhinglaj",
   "taluka_name": "GADHINGLAJ",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=gadhinglaj",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=gadhinglaj&languages=",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=gadhinglaj&languages=",
@@ -11,5 +11,8 @@
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=gadhinglaj&languages=marathi"
   },
   "pdf_storage_dir": "districts/kolhapur/pdfs/gadhinglaj",
-  "downloaded_pdfs": []
+  "downloaded_pdfs": [],
+  "scraped_with_playwright": true,
+  "last_scraped_at": "2026-08-10 18:14:18",
+  "pdfs_found": 0
 }

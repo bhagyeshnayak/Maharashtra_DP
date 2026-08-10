@@ -3,7 +3,7 @@
   "district_name": "Kolhapur",
   "taluka_id": "ichalkaranji",
   "taluka_name": "ICHALKARANJI",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=ichalkaranji",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=ichalkaranji&languages=",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=ichalkaranji&languages=",
@@ -11,5 +11,8 @@
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=kolhapur&tal=ichalkaranji&languages=marathi"
   },
   "pdf_storage_dir": "districts/kolhapur/pdfs/ichalkaranji",
-  "downloaded_pdfs": []
+  "downloaded_pdfs": [],
+  "scraped_with_playwright": true,
+  "last_scraped_at": "2026-08-10 18:15:18",
+  "pdfs_found": 0
 }

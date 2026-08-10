@@ -3,7 +3,7 @@
   "district_name": "Ratnagiri",
   "taluka_id": "chiplun",
   "taluka_name": "CHIPLUN",
-  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ratnagiri&tal=chiplun",
+  "query_url": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ratnagiri&tal=chiplun&languages=",
   "dp_plans": [],
   "query_urls": {
     "default": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ratnagiri&tal=chiplun&languages=",
@@ -11,5 +11,8 @@
     "marathi": "https://dtp.maharashtra.gov.in/home/downloads/dp/?cities=ratnagiri&tal=chiplun&languages=marathi"
   },
   "pdf_storage_dir": "districts/ratnagiri/pdfs/chiplun",
-  "downloaded_pdfs": []
+  "downloaded_pdfs": [],
+  "scraped_with_playwright": true,
+  "last_scraped_at": "2026-08-10 18:05:18",
+  "pdfs_found": 0
 }
